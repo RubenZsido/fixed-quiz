@@ -1,0 +1,1945 @@
+| Minek a rövidítése a RUP?
+*RationalUnifiedProcess
+RadicalUndefinedProcess
+RationalUndefinedProcess
+RadicalUnifiedProcess
+| Melyek a RUP modell fázisai?
+*Elindítás, kidolgozás, megépítés, átmenet
+Kezdeményezés, tervezés, elkészítés, átadás
+Elindítás, tervezés, kifejtés, átadás
+Helyzetelemzés, tervezés, kidolgozás, átadás
+| Mely modell fázisait foglalja magában a RUP modell 2. dimenziója?
+*Vízesés modell
+Evolúciós modell
+Spirál modell
+V-modell
+| Mi az a RUP?
+Egy specifikációs módszer.
+Egy zenei stílus.
+A Vízesés modell utolsó fázisa.
+*Egy szoftverfejlesztési modell.
+| Miért olyan fontos a követelményspecifikáció a RUP modellben?
+Azért, mert jó követelményspecifikációval a projekt végén sok prémiumra számíthatunk.
+Egyrészt azért fontos, hogy ne kelljen sokat kommunikálni a fejlesztőkkel, másrészt azért, hogy a fejlesztés többi fázisát ne kelljen elvégezni, mivel jó követelményspecifikáció esetén nincs szükség a fejlesztés többi fázisára.
+*A számos előny közül kiemelendő, hogy ha a követelmények pontosan le vannak fektetve, akkor később a megrendelővel sem kell annyit egyeztetnünk, illetve a fejlesztés többi fázisát gyorsabban el tudjuk végezni, mivel letisztult, pontos kiindulási adataink vannak.
+| Mely jellemző nem az agilis szoftverfejlesztés jellemzője?
+rugalmas
+jó követelményspecifikáció
+jó kommunikáció a megrendelővel, felhasználóval
+*nagyon bonyolult szabályrendszerek
+| ely szavak jellemzik leginkább az agilis szoftverfejlesztést?
+*fürge, rugalmas, hatékony, kommunikatív
+gyors, törtető, zárkózott, merev
+lassú, hatékony, kommunikatív, előre definiált
+fürge, előre definiált, korlátolt, hatékony
+| i a scrum?
+*Agilis szoftverfejlesztési módszer.
+Utcai harctípus.
+Gyorsított üzleti eljárás.
+| elyek jellemzik a scrum-ot?
+*sprint, productbacklog, dailyscrum meeting
+scrumfight, 100 m sprint, relaxingtraining
+economicplanning, sprint, business meeting
+
+| ik a scrum résztvevői?
+*Product Owner, ScrumMaster, Team
+SrumTeam, Coach, Audience
+
+
+| Kik a kiemelt szereplői egy szoftverprojektnek?
+*team, projektvezető, projektmenedzser
+rendszergazda, oktató, felhasználó
+| Egy szoftver projektben mi a feladata a projektvezetőnek?
+*projekttervezés, felülvizsgálat, beszámoló
+projekt anyagi támogatása, kész projekt felülvizsgálata
+team munkájának gazdasági elemzése, tanácsadás a megrendelőnek
+| Mi a feladata egy szoftverprojektben a projektmenedzsernek?
+kiegészítő munkák, melyekkel könnyebbé teszi a team munkáját
+team oktatása, team ellenőrzése a projekt végén, jelentések készítése a team felé
+*team összeállítása és vezetése, ütemterv elkészítése, képviselet a külvilág felé
+| ely tervre nem igaz, hogy egy szoftverprojekt tervezésének fontos része?
+validációs terv
+konfigurációkezelési terv
+*épületgépészeti terv
+karbantartási terv
+| it nem tartalmaz a projektterv?
+bevezetés
+kockázatelemzés
+*megrendelő fizetése
+projekt ütemterve
+| gy szoftverprojekt során mely nem szoftverkockázat?
+specifikáció késése
+méret alábecslése
+*munkaerő stílusának megváltozása
+technológia megváltozása
+| Egy szoftverprojekt esetében mely nem kockázati kategória?
+projektkockázat
+termékkockázat
+*szomszédos kockázat
+üzleti kockázat
+| iért jobb a COCOMO Intermediate, mint a COCOMO Basic?
+*Mert számol költségtényezőkkel is.
+Mert később dolgozták ki.
+Mert olcsóbb.
+
+| ány csoportra oszthatjuk a COCOMO Intermediate költségtényezőit?
+3
+6
+*4
+5
+| ely nem tartozik a COCOMO Intermediate személyi költségtényezői (personnelattributes) közé?
+applicationsexperience
+virtualmachineexperience
+*communicationability
+software engineercapability
+| COCOMO2 mely modellre vonatkozik elsősorban?
+V-modell
+*vízesés modell
+spirál modell
+evolúciós modell
+| i az a CMM?
+*Kormányzati projektre kifejlesztett módszer annak kiderítésére, hogy milyen eséllyel teljesül a projekt.
+Koordinált műszaki manufaktúra.
+Olyan módszer, mellyel pontosan meghatározható a projekt teljes költsége.
+| elyik a CMM utódja?
+CMM1
+CMM2
+CMMb
+*CMMI
+| ely nem a CMMI fő iránya?
+development
+services
+*hardware
+acquisition
+| Melyek a CMMI érettségi szintjei?
+*Initial, Managed, Defined, QuantitativelyManaged, Optimizing
+Initial, Intermediate, Defined, Created, Optimized
+Incomplete, Initial, Defined, Performed, Optimizing
+| Mi a feladata a scrum-ban a Product Ownernek?
+*Felelős a költségekért, illetve elfogadja vagy visszadobja a kész szoftverrészeket.
+Felelős a scrum betartásáért és ő finanszírozza a szoftver elkészítését.
+Biztosítja, hogy a team hatékonyan tudjon dolgozni, illetve folyamatosan ellenőrzi a team munkáját.
+| Mi a feladata a scrum-ban a Scrum Masternek?
+*Felelős a scrum betartásáért és biztosítja, hogy a csapat hatékony és termelékeny legyen.
+A gazdasági támogatás a legfőbb feladata.
+Elfogadja vagy visszadobja a kész szoftverrészeket.
+| Mi a feladata a scrum-ban a Teamnek?
+*Csapat alkotása, a szoftver elkészítése.
+Mindenkinek megvan a titulusa, eszerint végzi a feladatát.
+A projekt legvégéig fix tagsággal működik, és a szoftver tesztelése a legfontosabb feladata.
+
+| Mely állítás nem igaz a product backlog-ról?
+A kívánt munkák listáját tartalmazza a projekten.
+Része a sprint backlog.
+*A sprint burndown chart része.
+| Mely állítás nem igaz a daily scrum-ra?
+Állva történik.
+Nagyon rövid (kb. 15 perc).
+*Során megoldják a felmerülő problémákat.
+Megbeszélik, hogy ki mit végez el.
+| Mely állítás nem igaz a sprint-re?
+Közben a csapatot nem érheti külső hatás.
+A napi scrum meetinggel kezdődik.
+2-4 hetes iterációkban történik.
+*Pontosan egy van belőle egy projekt során.
+| ennyi ideig tart egy sprint?
+*2-4 hét
+1-6 hónap
+2 hét – 6 hónap
+4-8 hét
+| Mi történik a sprint planning során?
+*Produckt backlog és sprint backlog elkészítése, a sprint céljának meghatározása.
+A daily scrum meeting témájának előkészítése.
+A szoftver elkészítése.
+| Mi a sprint backlog?
+*A product backlog része, amit a sprint alatt teljesíteni kell.
+A product owner által meghatározott tevékenységek.
+A scrum master által megírt tevékenységlista, mely nem bővíthető, pontosan be kell tartani.
+| Mi az a sprint burndown chart?
+*Egy diagram, mely tartalmazza (naponta), hogy mennyi idő és mennyi elem van még hátra.
+Egy diagram, melyen lineárisan ábrázolják a projekt időbeosztását.
+Egy diagram, mely folytonosan lefelé halad a 0-ig.
+| Mi az a release burndown chart?
+*Diagram, melyen látható, hogy időben kész lesz-e a szoftver aktuális változata.
+Diagram, melyen láthatjuk a projekt teljes időbeosztását.
+Diagram, melyen 0-200 között láthatjuk a napi hátralévő feladatszámot.
+
+| Mi jellemző a CMMI „Kezdeti ” érettségi szintére?
+*A folyamatok kiszámíthatatlanok, gyengén ellenőrzöttek.
+A hangsúly a folyamatok tökéletesítésén van.
+A folyamatok mérhetőek és ellenőrzöttek.
+A folyamatok a szervezetre szabottak és biztonságosabbak.
+| Mi jellemző a CMMI „Menedzselt” érettségi szintére?
+*A folyamatok a projektre szabottabbak.
+A hangsúly a folyamatok tökéletesítésén van.
+A folyamatok mérhetőek és ellenőrzöttek.
+A folyamatok a szervezetre szabottak és biztonságosabbak.
+| Mi jellemző a CMMI „Meghatározott” érettségi szintére?
+*A folyamatok a szervezetre szabottak és biztonságosabbak.
+A hangsúly a folyamatok tökéletesítésén van.
+A folyamatok mérhetőek és ellenőrzöttek.
+A folyamatok kiszámíthatatlanok, gyengén ellenőrzöttek.
+| Mi jellemző a CMMI „Mennyiségileg menedzselt” érettségi szintére?
+*A folyamatok mérhetőek és ellenőrzöttek.
+A hangsúly a folyamatok tökéletesítésén van.
+A folyamatok a szervezetre szabottak és biztonságosabbak.
+A folyamatok kiszámíthatatlanok, gyengén ellenőrzöttek.
+| Mi jellemző a CMMI „Optimalizált” érettségi szintére?
+*A hangsúly a folyamatok tökéletesítésén van.
+A folyamatok mérhetőek és ellenőrzöttek.
+A folyamatok a szervezetre szabottak és biztonságosabbak.
+A folyamatok kiszámíthatatlanok, gyengén ellenőrzöttek.
+| Mit mond ki a Moore-törvény?
+*Az ugyanazon térfogatba integrálható tranzisztorok száma és ezzel együtt a számítási teljesítmény másfél évenként megkétszereződik.
+Az ugyanazon térfogatba integrálható tranzisztorok száma és ezzel együtt a számítási teljesítmény két évenként megkétszereződik.
+Az ugyanazon térfogatba integrálható áramkörök száma és ezzel együtt a számítási teljesítmény másfél évenként megkétszereződik.
+Az ugyanazon térfogatba integrálható áramkörök száma és ezzel együtt a számítási teljesítmény két évenként megkétszereződik.
+| Mik egy hardver rendszer részei?
+*Számítógép
+*Számítógéphez csatlakozó perifériák
+*Kommunikációs elemek
+*A rendszer felépítését, összetételét leíró dokumentáció
+*A rendszer üzemeltetését, működtetését leíró felhasználói dokumentáció
+A rendszer koncepcióját, tervét leíró fejlesztői dokumentáció
+A számítógépben található komponensek, egységek
+| Mik egy szoftver rendszer részei?
+*A számítógépen futó programok együttese
+*A programok futtatásához szükséges konfigurációs adatok, fájlok együttese
+*A rendszer felépítését, összetételét leíró rendszer-dokumentáció.
+*A rendszer üzemeltetését, működtetését leíró felhasználói dokumentáció
+A számítógép tároló egységein található adat, információ
+A szoftverhez tartozó adattároló egység (pl.: CD, DVD)
+| Az alábbiak közül melyik lehet egy szoftver termék?
+*Generikus termék
+Genetikus termék
+Generális termék
+Custom product
+Egyik sem
+| Mi a generikus termék jellemzői?
+*Fejlesztő cég önálló terméke
+*Fejlesztő cég saját erőből állítja elő
+*Nyílt piacon értékesítik
+Felhasználói megrendelésre készül
+Megrendelő ötletei alapján készül
+| Mi a generikus termék jellemzői?
+*Fejlesztő cég saját tervek alapján készíti el
+*Bárki megvásárolhatja
+Nyílt piacon nem kerül értékesítésre
+Megrendelő finanszírozza
+Adott ügyfél számára készül
+| Mi a megrendeléses termék jellemzői?
+*Felhasználói megrendelésre készül
+*Felhasználó igényei alapján tervezik
+*Szerződés alapján készül
+Nyílt piacon értékesítik
+Fejlesztő cég saját erőből állítja elő
+Fejlesztő cég önálló terméke
+| Hogyan szokás még nevezni a generikus terméket?
+*Generic product
+*Becsomagolt termék
+*Bedobozolt termék
+Zárt termék
+Bespoken product
+| Melyik az a szoftver termék, melynek specifikálását, tervezését, létrehozását a fejlesztő intézmény a piaci elvárások felmérése alapján, a várható felhasználói igények meghatározása révén végzi el?
+*Generic product
+*Generikus termék
+Megrendeléses termék
+Custom software
+Bespoken product
+Egyik sem
+| Szoftver termékek esetén mit jelent a customization?
+*Egy generikus szoftvert egy adott felhasználó igényeihez alakítva adnak el neki
+Adott felhasználó igényei alapján fejlesztenek számára egy egyedi szoftvert
+Olyan szoftverről van szó, melyet a felhasználó saját maga testre szabhat, igényeinek megfelelően
+A kifejezés nem értelmezett a szoftver termékek esetén
+| Mit értünk az elvárásoknak megfelelő működésen?
+*A szoftver teljesíti a felhasználói igényeket, elfogadható futási idő alatt, és elfogadható kényelmet biztosítva végzi el feladatát.
+A szoftver kielégíti a specifikációban lefektetett feltételeket, és hibafellépés nélkül végzi el feladatát.
+A szoftver működése során nem veszélyeztet emberi életet, nem okoz környezeti és gazdasági károkat.
+A szoftver az elvárt kimenettel szolgál adott bemenetek esetén.
+| Egy szoftver termékre milyen tulajdonságoknak kell teljesülnie?
+*Hatékony
+*Megbízható
+*Használható
+*Módosítható
+*Hordozható
+Hasznosítható
+Mozgatható
+| Egy szoftver termékre milyen tulajdonságoknak kell teljesülnie?
+*Tesztelhető
+*Újra-felhasználható
+*Karbantartható
+*Együttműködhető
+Biztonságos
+Hasznosítható
+| Mit jelent egy szoftver termék esetén a hatékonyság?
+*Kellő idő alatt teljesíti a számítási feladatát.
+*Elfogadható a futási ideje.
+Megfelelően lehet használni, elfogadható felhasználói kényelemmel, szolgáltatásokkal.
+Hibafellépés nélkül hajtja végre előírt feladatát.
+| Mit jelent egy szoftver termék esetén a megbízhatóság?
+*Hibafellépés nélkül hajtja végre előírt feladatát.
+Kellő idő alatt teljesíti a számítási feladatát. Elfogadható a futási ideje.
+A hibákat felismeri és megfelelően kezeli.
+Megfelelően lehet használni, elfogadható felhasználói kényelemmel, szolgáltatásokkal.
+| Mit jelent egy szoftver termék esetén a használhatóság?
+*Megfelelően lehet használni, elfogadható felhasználói kényelemmel, szolgáltatásokkal.
+Kellő idő alatt teljesíti a számítási feladatát.
+Hibafellépés nélkül hajtja végre előírt feladatát.
+Elfogadható a futási ideje.
+| Mit jelent egy szoftver termék esetén a módosíthatóság?
+*Könnyen meg lehet változtatni, ha a követelmények változnak.
+Az egész szoftver vagy annak jól elhatárolható részei más rendszerekbe is beépíthetőek.
+A felhasználó igényei szerint változtathatja a szoftver összetételét, komponenseit.
+A felhasználás során felmerülő igényekhez lehessen megváltoztatni, átalakítani, módosítani.
+| Mit jelent egy szoftver termék esetén a hordozhatóság?
+*A lehető legkevesebb újraírás árán lehessen átvinni egy másik hardver-platformra.
+*A lehető legkevesebb újraírás árán lehessen átvinni egy másik operációs rendszer alá.
+Az egész szoftver vagy annak jól elhatárolható részei más rendszerekbe is beépíthetőek, felhasználhatóak legyenek.
+A szoftver mobil informatikai eszközökön is futtatható legyen.
+| Mit jelent egy szoftver termék esetén a tesztelhetőség?
+*Könnyen lehessen tesztelni, az esetleges működési hibákat megtalálni.
+A szoftver tartalmaz olyan modulokat, melyek elősegítik a tesztek végrehajtását.
+A fejlesztés olyan fázishoz érkezett, ahol lehetőség adódik a szoftver termék tesztelésére.
+Egyik sem.
+| Mit jelent egy szoftver termék esetén az újra-felhasználhatóság?
+*Az egész szoftver vagy annak jól elhatárolható részei más rendszerekbe is beépíthetőek, felhasználhatóak legyenek.
+A felhasználás során felmerülő igényekhez lehessen megváltoztatni, átalakítani, módosítani.
+A felhasználó a szoftvert az eredeti felhasználási igényeken túlmenően más feladatok elvégzésére is fel tudja használni.
+Könnyen meg lehet változtatni, ha a követelmények változnak.
+| Mit jelent egy szoftver termék esetén a karbantarthatóság?
+*A felhasználás során felmerülő igényekhez lehessen megváltoztatni, átalakítani, módosítani.
+Az egész szoftver vagy annak jól elhatárolható részei más rendszerekbe is beépíthetőek, felhasználhatóak legyenek.
+Könnyen meg lehet változtatni, ha a követelmények változnak.
+Szoftver meghibásodás esetén hatékonyan lehet javítani, módosítani.
+| Mit jelent egy szoftver termék esetén az együttműködhetőség?
+*A szoftver más rendszerekkel való együttműködési, információcserélési lehetőségeire utal.
+Megfelelően lehet használni, elfogadható felhasználói kényelemmel, szolgáltatásokkal.
+A lehető legkevesebb újraírás árán lehessen átvinni egy másik hardver-platformra, vagy másik operációs rendszer alá. Az a jó, ha csak újra le kell fordítani az új számítógépen. De az a legjobb, ha minden további nélkül képes együttműködni az új környezetben.
+Az egész szoftver vagy annak jól elhatárolható részei más rendszerekbe is beépíthetőek, felhasználhatóak legyenek.
+| Mi az úgynevezett Brooks-féle szabály?
+*Ahhoz, hogy a kezdeti kétemberes fejlesztés ne csak a két ember számára legyen elfogadható, hanem széles körben, mások által is használható legyen, még további munkára, ráfordításra van szükség, ami az eredetinek kb. 8-9-szerese.
+Ahhoz, hogy a kezdeti néhány emberes fejlesztés ne csak egy szűk kör számára legyen elfogadható, hanem széles körben, mások által is használható legyen, még további munkára, ráfordításra van szükség, ami az eredetinek kb. 4-5-szöröse.
+Az ugyanazon térfogatba integrálható áramkörök száma és ezzel együtt a számítási teljesítmény másfél évenként megkétszereződik
+Az ugyanazon térfogatba integrálható tranzisztorok száma és ezzel együtt a számítási teljesítmény másfél évenként megkétszereződik.
+| Mi az emberhónap?
+*A projektek munkaráfordításának egy mérőszáma. Ezt a számot úgy kapjuk meg, hogy a projektben részt vevő emberek átlagos számát megszorozzuk a projekt teljes időtartamával.
+Egy szoftverfejlesztési mérőszám. Megadja, hogy egy adott fejlesztési projekt elvégzéséhez mennyi időre van szüksége a fejlesztőcsapatnak.
+Megadja, hogy a fejlesztő team egy tagjának mennyi idő szükséges a projekt feladat elvégzéséhez.
+Megadja, hogy a fejlesztő team havi lebontásban átlagosan hány fejlesztőt alkalmaz az adott projekt elvégzésére.
+| Egy fejlesztési projekt esetén EH=112. Mennyi lehet E és H értéke?
+*E=1, H=112
+*E=2, H=56
+*E=28, H=4
+*E=7, H=16
+*E=14, H=8
+| Egy szoftverfejlesztési projekt mikor nevezhető sikeresnek?
+*Ha a kitűzött határidőn belül készül el
+*Ha a fejlesztés a megállapított költségkereten belül valósul meg
+*Ha az eredetileg specifikált működési jellemzők többsége teljesül
+Ha a felhasználó igényeket teljes mértékben kielégíti
+Ha az értékesítés során sikerül profitot termelni
+| Az alábbi kategóriák közül melyek tartoznak Roger Pressman által felállított szoftver alkalmazási területek közé?
+*Rendszer-szoftverek
+*Valós idejű szoftverek
+*Üzleti célú szoftverek
+Rendszer közeli szoftverek
+| Az alábbi kategóriák közül melyek tartoznak Roger Pressman által felállított szoftver alkalmazási területek közé?
+*Mérnöki és tudományos célú szoftverek
+*Beágyazott szoftverek
+Felhasználói szoftverek
+Operációs rendszer szoftverek
+| Mi a VIR?
+*EIS
+*Vezetői információs rendszer
+ERP
+Vállalati információs rendszer
+Vállalati irányítási rendszer
+Vezetői irányítási rendszer
+| Az alábbi kategóriák közül melyek tartoznak Roger Pressman által felállított szoftver alkalmazási területek közé?
+*Személyi számítógépes szoftverek
+*Mesterséges intelligencia szoftverek
+Irodai és üzleti szoftverek
+Tervező és grafikai szoftverek
+| Mi igaz a VIR esetén?
+*Elsősorban felső szintű döntéshozók, pénzügyi szakemberek és üzletemberek számára nyújt támogatást.
+*Nem dolgozik bele a vállalati adatbázisba, onnan csak kiválasztja a „hasznos” adatokat.
+Egy vállalat összes üzleti tevékenységét lefedi, kiszolgálja.
+Óriási mennyiségű adat írását, olvasását, feldolgozását végzi.
+Elterjedt angol megnevezése az Enterprise Resource Planning System.
+| Mely állítások igazak?
+*Az EIS rendszerek a vezetői döntéshez szükséges információkat szűrik ki, szelektálják az adatbázisból.
+Egy vállalat ERP rendszere az EIS rendszerre épül.
+Az EIS rendszerek egy vállalat összes üzleti tevékenységét lefedi, kiszolgálja.
+Az EIS rendszerek nagy mennyiségű adatok olvasását, írását, feldolgozását végzik.
+| Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Szolgáltatást nyújt, strukturált vagy strukturálatlan fájlok feldolgozása, nagy mennyiségű adatfeldolgozás.
+*Rendszer szoftver
+Mérnöki és tudományos célú szoftver
+Valós idejű szoftver
+Üzleti célú szoftver
+| Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Időbeliséghez igazodás, külső események felügyelete, vezérlése, időkereten belüli reagálás.
+*Valós idejű szoftver
+Rendszer szoftver
+Mesterséges intelligencia szoftver
+Üzleti célú szoftver
+| Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Nagy mennyiségű információ feldolgozás, komponens alapú komplex rendszer, minden komponensnek egyéni funkció.
+*Üzleti célú szoftver
+Rendszer szoftver
+Mérnöki és tudományos célú szoftver
+Beágyazott szoftver
+| Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Nagy mennyiségű számítási igény, nagy teljesítményű hardver, komplex matematikai műveletek.
+*Mérnöki és tudományos célú szoftver
+Rendszer szoftver
+Mesterséges intelligencia szoftver
+Egyik sem
+| Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Vezérlő eszköz vagy célberendezés működését segítik, teszik lehetővé.
+*Beágyazott szoftver
+Mesterséges intelligencia szoftver
+Rendszer szoftver
+Egyik sem
+| Honnan számítható egy szoftver életciklusa?
+*Egy szoftver életciklusa a követelmények specifikálásával veszi kezdetét.
+Egy szoftver életciklusa akkor kezdődik, amikor a felhasználó használatba veszi az elkészült szoftvert.
+Egy szoftver életciklusa a fejlesztési folyamattal egy időben kezdődik.
+Egy szoftver életciklusa az üzembe helyezéssel indul.
+| Mikor fejeződik be egy szoftver életciklusa?
+*Amikor a szoftver elavulttá válik, használaton kívülre kerül.
+Amikor a szoftverfejlesztés lezárul, értékesíthetővé válik a szoftver.
+Egy szoftver életciklusa sosem zárul le, mert a szoftver nem öregszik és nem megy tönkre.
+Amikor a szoftvernek újabb kiadása kerül értékesítésre, ezáltal a régebbi verzió használaton kívülre kerül.
+| Az alábbiak közül melyek szoftverfejlesztési modellek?
+*Vízesés modell
+*Evolúciós fejlesztés
+*Inkrementális fejlesztés
+*Spirál modell
+*V-modell
+Generikus fejlesztés
+Dekrementális fejlesztés
+Iterációs fejlesztés
+| Mely életciklus modell vázlatos diagramja látható a képen?
+
+*Vízesés modell
+*Lineáris ciklus
+V modell
+Inkrementális fejlesztés
+Prototípus-alapú fejlesztés
+
+| Mely életciklus modell vázlatos diagramja látható a képen?
+
+
+*Prototípus-alapú fejlesztés
+Inkrementális fejlesztés
+Növekményes fejlesztés
+Iterációs fejlesztés
+
+| Mely életciklus modell vázlatos diagramja látható a képen?
+
+*Inkrementális fejlesztés
+*Növekményes fejlesztés
+Prototípus-alapú fejlesztés
+Iterációs fejlesztés
+Vízesés modell
+
+| Az alábbi állítások közül mely hamis?
+*A V-modell leginkább a vállalati információs rendszerekhez alkalmas.
+*A spirál modell a nem szigorúan specifikált kiinduláshoz alkalmazható.
+A spirál modell az erőforrások elosztására és a költségekre koncentrál.
+A V-modell a biztonsági követelmények teljesítéséhez alkalmazkodik
+| Mi jellemezte egy szoftverfejlesztési folyamatot a szoftver-technológia kialakulásának kezdetén?
+*Egymás után elvégzendő feladatok sorozatának definiálása.
+*Egyes feladatok végrehajtására konkrét tevékenységek rendelése.
+*Fejlesztési tevékenységek időrendbeli rendezése.
+*Konkrét feladat megoldására alkalmas modell.
+Fejlesztési lépések halmazának definiálása.
+Fejlesztési lépések céljának meghatározása.
+Fejlesztési folyamat elvont, absztrakt definiálása.
+Általános fejlesztési modell.
+| Mi jellemezi egy szoftverfejlesztési folyamatot a szoftver-technológia mai szemlélete szerint?
+*Fejlesztési lépések halmazának definiálása.
+*Fejlesztési lépések céljának meghatározása.
+*Fejlesztési folyamat elvont, absztrakt definiálása.
+*Általános fejlesztési modell.
+Egymás után elvégzendő feladatok sorozatának definiálása.
+Egyes feladatok végrehajtására konkrét tevékenységek rendelése.
+Fejlesztési tevékenységek időrendbeli rendezése.
+Konkrét feladat megoldására alkalmas modell.
+| Milyen fázisok találhatóak a vízesés modellben?
+*Követelmények elemzése és meghatározása
+*Rendszertervezés és szoftvertervezés
+*Implementáció és az egységek tesztelése
+*Integrálás és rendszertesztelés
+*Üzemeltetés és karbantartás
+Fejlesztési célok, követelmények meghatározása
+Modulok előállítása és tesztelése
+Felhasználók oktatása
+| A vízesés modell fázisai közül melyik az, melyből bármelyik korábbi fázishoz visszatérhetünk?
+*Üzemeltetés és karbantartás
+Rendszer validálás és bizonylatolás
+Integrálás és rendszertesztelés
+Implementáció és egységek tesztelése
+| Hogyan szokás még nevezni a vízesés modellt?
+*Lineáris ciklus
+Inkrementális modell
+Növekményes fejlesztés
+Evolúciós fejlesztés
+Prototípus alapú fejlesztés
+| Mikor alkalmazható jól a vízesés modell?
+*Ha a fejlesztési követelmények egyértelműen meg vannak határozva.
+*Ha nem áll fent annak a veszélye, hogy a követelmények megváltoznak.
+Ha a fejlesztési követelmények kezdetben nincsenek egyértelműen meghatározva.
+Ha a fejlesztési követelmények a projekt során többször módosulnak.
+| Ha egy rendszert nem lehet vagy nem érdemes pontosan specifikálni, akkor milyen szoftverfejlesztési modellt célszerű alkalmazni?
+*Evolúciós fejlesztés
+*Prototípus-alapú fejlesztés
+Inkrementális modell
+Spirál modell
+V modell
+| Milyen fázisok találhatóak a prototípus alapú fejlesztésben?
+*Feladat meghatározása
+*Rendszer specifikálása
+*Prototípus kifejlesztése
+*Prototípus megfelelőségének vizsgálata
+*Rendszer megtervezése
+*Rendszer megépítése
+Prototípusok tesztelése és implementálása
+Rendszer üzemeltetése és karbantartása
+Integrálás és rendszertesztelés
+| Mi jellemző a lineáris ciklusra?
+*Jellemző sajátossága a szekvencialitás, ami úgy nyilvánul meg, hogy az egyes fázisok kötött sorrendben követik egymást. Mégpedig oly módon, hogy egy fázis csak akkor kezdhető el, ha az őt megelőző fázis fejlesztési eredménye már rendelkezésre áll. Ideális esetben mindegyik szakasz csak egyetlen „menetben” valósul meg.
+Ez a modell több egymást követő fejlesztési állomásból tevődik össze, ahol az egyes állomások eredményeinek elemzése alapján kerül sor a következő állomás tervezésére és megvalósítására. Ebben a megközelítésben mindegyik állomás az előzőnél teljesebb, jobban kiérlelt verziót eredményez.
+Ebben a modellben az egyes tevékenységek nem előírt sorrendben követik egymást, a tevékenységek közötti bizonyos visszalépésekkel, hanem folyamatosan előre haladva, fejlesztési ciklusokba, hurkokba rendezve. Itt mindegyik ciklus egy önálló fejlesztési fázist képvisel.
+Ebben a megoldásban a felhasználók először csak főbb vonásokban határozzák meg az elérendő szolgáltatásokat, megadva a fontosabb és a kevésbé fontos szempontokat. Kiindulásként a teljes rendszert részfunkciókra bontják, és az egyes részfunkciókat megvalósító fejlesztési változatokat rendelik meg.
+| Mi jellemző az evolúciós fejlesztésre?
+*Ez a modell több egymást követő fejlesztési állomásból tevődik össze, ahol az egyes állomások eredményeinek elemzése alapján kerül sor a következő állomás tervezésére és megvalósítására. Ebben a megközelítésben mindegyik állomás az előzőnél teljesebb, jobban kiérlelt verziót eredményez.
+Jellemző sajátossága a szekvencialitás, ami úgy nyilvánul meg, hogy az egyes fázisok kötött sorrendben követik egymást. Mégpedig oly módon, hogy egy fázis csak akkor kezdhető el, ha az őt megelőző fázis fejlesztési eredménye már rendelkezésre áll. Ideális esetben mindegyik szakasz csak egyetlen „menetben” valósul meg.
+Ebben a modellben az egyes tevékenységek nem előírt sorrendben követik egymást, a tevékenységek közötti bizonyos visszalépésekkel, hanem folyamatosan előre haladva, fejlesztési ciklusokba, hurkokba rendezve. Itt mindegyik ciklus egy önálló fejlesztési fázist képvisel.
+Ebben a megoldásban a felhasználók először csak főbb vonásokban határozzák meg az elérendő szolgáltatásokat, megadva a fontosabb és a kevésbé fontos szempontokat. Kiindulásként a teljes rendszert részfunkciókra bontják, és az egyes részfunkciókat megvalósító fejlesztési változatokat rendelik meg.
+*Ebben a megoldásban a felhasználók először csak főbb vonásokban határozzák meg az elérendő szolgáltatásokat, megadva a fontosabb és a kevésbé fontos szempontokat. Kiindulásként a teljes rendszert részfunkciókra bontják, és az egyes részfunkciókat megvalósító fejlesztési változatokat rendelik meg.
+Ebben a modellben az egyes tevékenységek nem előírt sorrendben követik egymást, a tevékenységek közötti bizonyos visszalépésekkel, hanem folyamatosan előre haladva, fejlesztési ciklusokba, hurkokba rendezve. Itt mindegyik ciklus egy önálló fejlesztési fázist képvisel.
+Ez a modell több egymást követő fejlesztési állomásból tevődik össze, ahol az egyes állomások eredményeinek elemzése alapján kerül sor a következő állomás tervezésére és megvalósítására. Ebben a megközelítésben mindegyik állomás az előzőnél teljesebb, jobban kiérlelt verziót eredményez.
+Jellemző sajátossága a szekvencialitás, ami úgy nyilvánul meg, hogy az egyes fázisok kötött sorrendben követik egymást. Mégpedig oly módon, hogy egy fázis csak akkor kezdhető el, ha az őt megelőző fázis fejlesztési eredménye már rendelkezésre áll. Ideális esetben mindegyik szakasz csak egyetlen „menetben” valósul meg.
+| Prototípus alapú fejlesztés esetén melyik az a fázis, mely során visszaléphetünk a modell kezdeti fázisához?
+*Prototípus megfelelőségének vizsgálata
+Rendszer specifikálása
+Rendszer tervezése
+Rendszer tesztelése és validálása
+Prototípus implementálása és tesztelése
+| Mekkora rendszereknél célszerű alkalmazni az evolúciós fejlesztést?
+*Kiss és közepes méretű rendszerek esetén, ahol nincs szükség több team-re.
+Nagy méretű rendszerek esetén, ahol több team munkájára van szükség.
+Kiss és nagy méretű fejlesztések esetén egyaránt jól használható.
+Kiss méretű, de több team együttes munkáját igénylő fejlesztéseknél.
+| Nagy rendszereknél érdemes e vegyesen használni az evolúciós és a vízesés modellt? Ha igen, hogyan?
+*Igen, a specifikáció végleges kialakítását evolúciós módon, és ezt követően már a vízesés-alapú folyamattal valósítsuk meg a végleges tervet.
+Igen, a specifikáció végleges kialakítását vízesés módon, és ezt követően már az evolúciós-alapú folyamattal valósítsuk meg a végleges tervet.
+Igen, a fejlesztést vízesés modellel hajtsuk végre, ahol minden egyes fázis esetén evolúciós modellt alkalmazunk.
+Nem, nagy rendszereknél általában evolúciós modellt érdemes alkalmazni.
+| Mit nevezünk inkrementumnak?
+*Növekményes fejlesztési modell esetén az egyes részfunkciókat megvalósító fejlesztési változatokat.
+Evolúciós fejlesztési modell esetén az egyes részfunkciókat megvalósító fejlesztési változatokat.
+Növekményes fejlesztési modell esetén a szoftver specifikációban lefektetett részfunkciókat.
+Evolúciós fejlesztési modell esetén a szoftver specifikációban lefektetett részfunkciókat.
+Egyik sem.
+| Az alábbiak közül melyik igaz a növekményes fejlesztési modell esetén?
+*Inkrementumokból integrálják össze a kész rendszert.
+*Az egyes inkrementumokat külön fejlesztik le.
+A inkrementumok száma a rendszer moduljainak számától függ.
+Jellemző sajátossága a szekvencialitás.
+A rendszer validálása során bármely korábbi fázishoz visszaléphetünk.
+| Inkrementális fejleszt esetén mely fázis során és hova léphetünk vissza?
+*A rendszer teljességének vizsgálata során léphetünk vissza az inkrementum kifejlesztési fázis elé.
+A rendszer teljességének vizsgálata során léphetünk vissza a rendszer architektúra tervezési fázis elé.
+A rendszer validálása során léphetünk vissza az inkrementum validálási fázis elé.
+Az inkrementum integrálása során léphetünk vissza az inkrementum kifejlesztési fázis elé.
+A rendszer validálása során bármely korábbi fázishoz visszaléphetünk.
+| Milyen előnyei vannak az inkrementális fejlesztésnek?
+*A felhasználónak nem kell megvárnia, amíg a teljes végleges rendszert megkapja.
+*Viszonylag alacsony a kockázata annak, hogy teljes projekt sikertelen lesz.
+*A fontos szolgáltatások fogják a legtöbb tesztelést kapni.
+Szoros az inkrementumok közti kapcsolat és együttműködés.
+Az inkrementumok révén jól kezeli a nagy méretű részfunkciókat.
+A fejlesztés során előálló prototípusok révén jól tesztelhető a rendszer.
+| Növekményes fejlesztés esetén mi a teendő, ha egy inkrementum elkészül (véglegessé válik)?
+*Hozzáintegráljuk a már elfogadott és egybeépített többi inkrementumhoz.
+Átadjuk a felhasználónak, mivel a növekményes fejlesztés lényege, hogy a megrendelő inkrementumonként kapja kézhez a szoftver rendszert.
+Növekményes fejlesztés esetén nem beszélhetünk inkrementumokról, mivel az az inkrementális fejlesztéshez tartozik.
+Validáljuk a rendszert, döntünk a további inkrementumok fejlesztéséről.
+| Mi jellemző a spirál modellre?
+*Ebben a modellben az egyes tevékenységek nem előírt sorrendben követik egymást, a tevékenységek közötti bizonyos visszalépésekkel, hanem folyamatosan előre haladva, fejlesztési ciklusokba. Itt mindegyik ciklus egy önálló fejlesztési fázist képvisel.
+Ez a modell több egymást követő fejlesztési állomásból tevődik össze, ahol az egyes állomások eredményeinek elemzése alapján kerül sor a következő állomás tervezésére és megvalósítására. Ebben a megközelítésben mindegyik állomás az előzőnél teljesebb, jobban kiérlelt verziót eredményez.
+Ebben a megoldásban a felhasználók először csak főbb vonásokban határozzák meg az elérendő szolgáltatásokat, megadva a fontosabb és a kevésbé fontos szempontokat. Kiindulásként a teljes rendszert részfunkciókra bontják, és az egyes részfunkciókat megvalósító fejlesztési változatokat rendelik meg.
+Jellemző sajátossága a szekvencialitás, ami úgy nyilvánul meg, hogy az egyes fázisok kötött sorrendben követik egymást. Mégpedig oly módon, hogy egy fázis csak akkor kezdhető el, ha az őt megelőző fázis fejlesztési eredménye már rendelkezésre áll. Ideális esetben mindegyik szakasz csak egyetlen „menetben” valósul meg.
+| Milyen szektorokból és milyen sorrendben épül fel a spirál modell?
+*1: Fejlesztési célok, tárgykörök megállapítása. 2: Kockázatok értékelése és csökkentése. 3: Fejlesztés és validálás. 4: Tervezés
+1: Fejlesztési célok, tárgykörök megállapítása. 2: Kockázatok értékelése és csökkentése. 3: Tervezés. 4: Fejlesztés és validálás.
+1: Felhasználói igények felmérése. 2: Fejlesztési célok, tárgykörök megállapítása. 3: Fejlesztés és validálás. 4: Tervezés
+1: Felhasználói igények felmérése. 2: Fejlesztési célok, tárgykörök megállapítása. 3: Tervezés. 4: Fejlesztés és validálás.
+| Spirál modell esetén mi történik a tervezési fázisban?
+*A projekt teljes átvizsgálása, döntés további folytatásról.
+A felhasználói igények alapján meg kell tervezni a szoftver architektúrát.
+Az egyes szoftvermodulok implementálásához szükséges tervek előkészítése történik.
+Kockázatok azonosítása és csökkentése.
+| Az alábbiak közül melyik igaz?
+*A spirál modell fontos velejárója a kockázatok feltárása és csökkentése.
+*Spirál modell esetén lehetséges az, hogy az egyik spirál-ciklust a másiktól eltérő modell használatával valósítsuk meg.
+Spirál modell esetén mindegyik ciklusban ugyanazt a modellt kell alkalmaznunk.
+Spirál modell esetén nem hangsúlyos a kockázatok elemzése és csökkentése.
+| Milyen fejlesztési modellt vagy modelleket választana olyan feladat esetén, amit előzetesen pontosan ismer, a teljes felépítéssel együtt?
+*Vízesés modell
+V modell
+Prototípus alapú fejlesztés
+Inkrementális fejlesztés
+Spirál modell
+| Milyen fejlesztési modellt vagy modelleket választana olyan feladat esetén, amely nincsen jól strukturálva, és nehezebb átgondolni?
+*Evolúciós modell
+*Prototípus alapú fejlesztés
+Spirál modell
+V modell
+Vízesés modell
+| Milyen fejlesztési modellt vagy modelleket választana olyan feladat esetén, ahol korai eredményt szeretnénk elérni a felhasználó megnyerése érdekében?
+*Prototípus alapú fejlesztés
+*Spirál modell
+*Inkrementális modell
+V modell
+Vízesés modell
+| Mi jellemzi a biztonságkritikus rendszert?
+*Ne veszélyeztesse az emberi életet.
+*Ne veszélyeztesse az egészséget.
+*Ne okozzon gazdasági kárt.
+*Ne okozzon környezeti kárt.
+*Tipikusan ilyenek a banki szoftverek.
+Tipikusan ilyenek a vállalati számlázó szoftverek.
+Szoftver hiba esetén is képes végrehajtani a feladatát.
+| Mi jellemző a hibatűrő rendszerekre?
+*Hiba esetén is képes ellátni főbb funkcióit.
+*Hiba esetén teljesítménye lecsökkenhet.
+Hiba esetén is ugyanolyan hatásfokkal képes működni, mint hibamentesen.
+Szoftver meghibásodás esetén is képes működni.
+Tervezésnél az a cél, hogy a szoftver minden körülmények között hibamentesen működjön.
+| Mi a megbízhatóság?
+*Annak feltételes valószínűsége, hogy egy informatikai rendszer hibátlanul működik a [t0, t] időintervallumban, feltéve, hogy a t0 <= t időpontban hibátlanul működött.
+Annak valószínűsége, hogy az informatikai rendszer helyesen működik a t időpontban.
+Annak valószínűsége, hogy az informatikai rendszer helyesen vagy hibásan működik a t időpontban, de oly módon, hogy nem veszélyeztet emberi életet, nem okoz anyagi vagy környezeti kárt, és nem befolyásolja károsan más rendszerek működését.
+Annak valószínűsége, hogy a meghibásodott rendszer újra működőképessé tehető t időtartam alatt.
+| Mi a rendelkezésre állás?
+*Annak valószínűsége, hogy az informatikai rendszer helyesen működik a t időpontban.
+Annak valószínűsége, hogy az informatikai rendszer helyesen vagy hibásan működik a t időpontban, de oly módon, hogy nem veszélyeztet emberi életet, nem okoz anyagi vagy környezeti kárt, és nem befolyásolja károsan más rendszerek működését.
+Annak valószínűsége, hogy a meghibásodott rendszer újra működőképessé tehető t időtartam alatt.
+Annak feltételes valószínűsége, hogy egy informatikai rendszer hibátlanul működik a [t0, t] időintervallumban, feltéve, hogy a t0 <= t időpontban hibátlanul működött.
+| Mi a biztonságosság?
+*Annak valószínűsége, hogy az informatikai rendszer helyesen vagy hibásan működik a t időpontban, de oly módon, hogy nem veszélyeztet emberi életet, nem okoz anyagi vagy környezeti kárt, és nem befolyásolja károsan más rendszerek működését.
+Annak valószínűsége, hogy a meghibásodott rendszer újra működőképessé tehető t időtartam alatt.
+Annak feltételes valószínűsége, hogy egy informatikai rendszer hibátlanul működik a [t0, t] időintervallumban, feltéve, hogy a t0 <= t időpontban hibátlanul működött.
+Annak valószínűsége, hogy az informatikai rendszer helyesen működik a t időpontban.
+| Mi a karbantarthatóság?
+*Annak valószínűsége, hogy a meghibásodott rendszer újra működőképessé tehető t időtartam alatt.
+Annak feltételes valószínűsége, hogy egy informatikai rendszer hibátlanul működik a [t0, t] időintervallumban, feltéve, hogy a t0 <= t időpontban hibátlanul működött.
+Annak valószínűsége, hogy az informatikai rendszer helyesen működik a t időpontban.
+Annak valószínűsége, hogy az informatikai rendszer helyesen vagy hibásan működik a t időpontban, de oly módon, hogy nem veszélyeztet emberi életet, nem okoz anyagi vagy környezeti kárt, és nem befolyásolja károsan más rendszerek működését.
+| Melyik állítás igaz a megbízhatóság esetén?
+*Annak a valószínűségét fejezi ki, hogy a rendszer a [t0, t] intervallumban végig hibátlanul működik, feltéve, hogy t0-ban hibátlanul működött.
+Azt fejezi ki, hogy a [t0, t] intervallumban milyen valószínűséggel működik a rendszer, feltéve, hogy t0-ban hibátlanul működött.
+Megadja, hogy egy t időpillanatban milyen valószínűséggel működik hibátlanul a rendszer.
+Megadja, hogy egy t időpillanatban milyen valószínűséggel működőképes a rendszer.
+| Ha egy rendszer megbízható, akkor hibatűrő is?
+*Nem, a hibatűrés javítja a megbízhatóságot, de ettől még nem biztos, hogy magas lesz a megbízhatóság.
+Igen, a megbízhatóság garantálja, hogy a rendszer nagy valószínűséggel hibátlanul működik.
+Igen, a két fogalom ekvivalens.
+Nem, a megbízhatóság azt garantálja, hogy valamilyen valószínűséggel nem fordul elő hiba, de a hibatűrés a hibák teljes kizárását követeli meg.
+| Mi a különbség a megbízhatóság és a rendelkezésre állás között?
+*A megbízhatóság és a rendelkezésre állás között az a különbség, hogy az előbbi a t időpontig tartó folyamatos helyességet fejezi ki, míg az utóbbi csak azt, hogy a t időpontban legyen a működés helyes.
+*A rendelkezésre állás értéke ott lehet fontos, ahol a rendszert nem állandóan használják egy feladatra, míg a megbízhatóságot elsősorban olyan rendszerek jellemzésére használják, ahol egy rövid időre sincs megengedve a hibás működés.
+A rendelkezésre állás és a megbízhatóság között az a különbség, hogy az előbbi a t időpontig tartó folyamatos helyességet fejezi ki, míg az utóbbi csak azt, hogy a t időpontban legyen a működés helyes.
+A megbízhatóság értéke ott lehet fontos, ahol a rendszert nem állandóan használják egy feladatra, míg a rendelkezésre állást elsősorban olyan rendszerek jellemzésére használják, ahol egy rövid időre sincs megengedve a hibás működés.
+| Mit jelent az A(t) >= 0,4 ?
+*Az informatikai rendszer a t időpontban legalább 0,4 valószínűséggel helyesen fog működik.
+Az informatikai rendszer t idő alatt legalább 0,4 valószínűséggel újra üzemképes állapotba hozható.
+Az informatikai rendszer a t időpontban legalább 0,4 valószínűséggel biztonságosan fog működni.
+Az informatikai rendszer a t időpontig legalább 0,4 valószínűséggel megbízhatóan fog működik.
+| Mit jelent az S(t) >= 0,7 ?
+*Az informatikai rendszer a t időpontban legalább 0,7 valószínűséggel biztonságosan fog működni.
+Az informatikai rendszer a t időpontban legalább 0,7 valószínűséggel helyesen fog működik.
+Az informatikai rendszer t idő alatt legalább 0,7 valószínűséggel újra üzemképes állapotba hozható.
+Az informatikai rendszer a t időpontig legalább 0,7 valószínűséggel megbízhatóan fog működik.
+| Mit jelent az M(t) >= 0,9 ?
+*Az informatikai rendszer t idő alatt legalább 0,9 valószínűséggel újra üzemképes állapotba hozható.
+Az informatikai rendszer a t időpontban legalább 0,9 valószínűséggel biztonságosan fog működni.
+Az informatikai rendszer a t időpontban legalább 0,9 valószínűséggel helyesen fog működik.
+Az informatikai rendszer a t időpontig legalább 0,9 valószínűséggel megbízhatóan fog működik.
+| Mely állítások igazak a BIST esetén?
+*A built-in self-testing rövidítése.
+*Az M(t) értékének magas szinten tartására használják.
+Az R(t) értékének magas szinten tartására használják.
+Arra szolgál, hogy egy informatikai rendszer könnyen tesztelhető legyen.
+Az S(t) értékének magas szinten tartására használják.
+| Mi a verifikáció?
+*Az a folyamat, amelyben meghatározzuk, hogy a vizsgált informatikai rendszer szoftvere teljesíti-e mindazokat a követelményeket, amelyeket egy előző fázisban specifikáltak a szoftver fejlesztési vagy előállítási folyamatában.
+Az a folyamat, amelyben meghatározzuk, hogy a vizsgált informatikai rendszer szoftvere teljesíti-e mindazokat a felhasználói elvárásokat, amelyeket egy előző fázisban specifikáltak a szoftver fejlesztési vagy előállítási folyamatában.
+A teljes szoftver vizsgálata és kiértékelése azzal a céllal, hogy meghatározzuk, minden szempontból megfelel-e a felhasználói követelményeknek.
+A teljes szoftver vizsgálata és kiértékelése azzal a céllal, hogy meghatározzuk, minden szempontból megfelel-e a specifikációban lefektetett követelményeknek.
+| Mi a validáció?
+*A teljes szoftver vizsgálata és kiértékelése azzal a céllal, hogy meghatározzuk, minden szempontból megfelel-e a felhasználói követelményeknek.
+A teljes szoftver vizsgálata és kiértékelése azzal a céllal, hogy meghatározzuk, minden szempontból megfelel-e a specifikációban lefektetett követelményeknek.
+Az a folyamat, amelyben meghatározzuk, hogy a vizsgált informatikai rendszer szoftvere teljesíti-e mindazokat a felhasználói elvárásokat, amelyeket egy előző fázisban specifikáltak a szoftver fejlesztési vagy előállítási folyamatában.
+Az a folyamat, amelyben meghatározzuk, hogy a vizsgált informatikai rendszer szoftvere teljesíti-e mindazokat a követelményeket, amelyeket egy előző fázisban specifikáltak a szoftver fejlesztési vagy előállítási folyamatában.
+| Ha tökéletesen végrehajtjuk a verifikációs folyamatot, akkor az garantálja a végtermék tökéletes felhasználhatóságát?
+*Nem. Amit garantálni lehet, az a kiindulási specifikációval való ekvivalencia teljesülése.
+*Nem. Ha specifikálásban történt hiányosság vagy tévedés, a végtermék nem fog minden tekintetben megfelelni a felhasználási követelményeknek.
+Nem. A verifikációs folyamat tökéletes végrehajtása csak elméleti szinten lehetséges.
+Igen. A verifikáció során mindvégig az előzetesen lefektetett felhasználói követelményekhez kell igazodni.
+Igen. A verifikálásra csak a validálás után kerülhet sor, ami garantálja a tökéletes felhasználhatóságot.
+| Biztonságkritikus rendszer esetén mit kell igazolni a validáció során?
+*A funkcionális megfelelőséget.
+*A teljesítményben való megfelelőséget.
+*A biztonsági követelmények teljesülését.
+A felhasználói követelményeknek való megfelelőséget.
+A biztonsági előírásoknak való megfelelőséget.
+| Az alábbiak közül melyik igaz?
+*A verifikáció arra ad választ, hogy a termék előállítása helyesen történt-e.
+*A validáció arra ad választ, hogy a helyes terméket állítottuk-e elő.
+A validáció arra ad választ, hogy a termék előállítása helyesen történt-e.
+A verifikáció arra ad választ, hogy a helyes terméket állítottuk-e elő.
+| Előfordulhat-e, hogy nincs szükség a validációs vagy a verifikációs folyamatra?
+*Igen. Bizonyos esetekben, ha a kiindulási specifikációban nincsen semmilyen hiányosság, akkor nincs szükség a validációra.
+Igen. Ha jól validált a rendszer, akkor nincs szükség a verifikációs folyamatra.
+Igen. Bizonyos fejlesztési modellek esetén elhagyható a validációs folyamat.
+Nem. A verifikációt és a validációt minden esetben el kell végezni.
+Nem. Minden szoftver esetén szükség van verifikálásra, melynek része a validációs folyamat.
+| Mit fejez ki a V modell lefelé haladó ága?
+*A tervezési és létrehozási folyamatot.
+A specifikációs és architektúrális folyamatot.
+A teszttervezési és implementációs folyamatot.
+A tesztelési és ellenőrzési folyamatot.
+| Mit fejez ki a V modell felfelé haladó ága?
+*A tesztelési és ellenőrzési folyamatot.
+A tervezési és létrehozási folyamatot.
+A specifikációs és architektúrális folyamatot.
+A teszttervezési és implementációs folyamatot.
+| Az alábbiak közül melyek a V modell életciklusának állomásai?
+*Követelmények specifikálása
+*Hazárd- és kockázatanalízás
+*Rendszer specifikálás
+Felhasználói igények felmérése
+Szoftver specifikálás
+| Az alábbiak közül melyek a V modell életciklusának állomásai?
+*Architektúra tervezés
+*Modul tervezés
+*Modulok előállítása és tesztelése
+Inkrementum kifejlesztése
+Specifikációnak való megfelelés vizsgálata
+| Az alábbiak közül melyek a V modell életciklusának állomásai?
+*Rendszer integrálása és tesztelése
+*Rendszer verifikálása
+*Rendszer validálása
+Inkrementumok tesztelése és integrálása
+Rendszer architektúra tesztelése
+| Mi a V modell életciklusának befejező állomásai?
+*Bizonylatolás, majd a rendszer üzemeltetése
+Rendszer verifikálása, majd validálása
+A felhasználók oktatása, végül a rendszer üzemeltetése
+Rendszer integrálása és tesztelése, végül a rendszer üzemeltetése
+| V modell esetén mely fázis eredményeként áll elő a biztonsági követelmények dokumentációja?
+*Hazárdok és kockázatok elemzése
+Követelmények specifikálása
+Architekturális tervezés
+A teljes rendszer-specifikáció
+A teljes rendszer validálása
+| V modell esetén mely fázis eredményeként állnak elő a hardver és szoftver tervdokumentációk?
+*Architekturális tervezés
+A teljes rendszer-specifikáció
+Követelmények specifikálása
+Modulokra bontás
+A teljes rendszer verifikálása
+| V modell esetén az üzemeltetés és karbantartás fázisnak mi a bemeneti dokumentációja?
+*A biztonsági követelmények dokumentációja
+A rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció
+A rendszer terve, és a teljes rendszer-specifikáció
+A modulok terve, és a teljes rendszer terve
+| V modell esetén a bizonylatolás fázisnak mi a bemeneti dokumentációja?
+*A rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció
+A biztonsági követelmények dokumentációja
+A modulok terve, és a teljes rendszer terve
+A teljes rendszer-specifikáció
+| V modell esetén a teljes rendszer validálása fázisnak mi a bemeneti dokumentációja?
+*A rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció
+A biztonsági követelmények dokumentációja
+A modulok terve, és a teljes rendszer terve
+A rendszer terve, és a teljes rendszer-specifikáció
+| V modell esetén a teljes rendszer verifikálása fázisnak mi a bemeneti dokumentációja?
+*A rendszer terve, és a teljes rendszer-specifikáció
+A biztonsági követelmények dokumentációja
+A rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció
+A modulok terve, és a teljes rendszer terve
+| V modell esetén a szoftver-modulok összeintegrálása fázisnak mi a bemeneti dokumentációja?
+*A modulok terve, és a teljes rendszer terve
+A biztonsági követelmények dokumentációja
+A rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció
+A rendszer terve, és a teljes rendszer-specifikáció
+| V modell esetén a modulok elkészítése és tesztelése fázisnak mi a bemeneti dokumentációja?
+*A modulok terve
+A modulok terve, és a teljes rendszer terve
+A rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció
+A biztonsági követelmények dokumentációja
+| Mi igaz az inkrementális tesztelésre?
+*Egy kiindulási, minimális számú modulhoz egymás után illesztjük a bővítésként szolgáló modulokat. Minden egyes bővítés után külön teszteljük az addig összeállt komplexumot.
+*Az újabb hibák egy-egy bővítés során léphetnek be nagy valószínűséggel.
+A szoftver moduljait külön-külön teszteljük, majd a már verifikált alegységekből építjük fel a szoftver komplexumot.
+Egyszerű a hibajavítás, mert a bővítés során megjelenő hibák az újonnan beépített modulban keresendők.
+A tesztesetek halmazát inkrementálisan növeljük a tesztelés során.
+| Mi igaz a big bang tesztelésre?
+*Az összes modult egyszerre rakjuk össze.
+*Azon a feltevésen alapul, hogy az előzetesen már letesztelt modulok együtt is jól fognak működni.
+Több menetben hajtjuk végre a tesztelést.
+Hibák megtalálása egyszerűbb, mint az inkrementális tesztelés esetén.
+Olyan rendszerek esetén használjuk, ami nem igényli, hogy több modulra bontsuk szét.
+| V modell esetén mi történik az architekturális tervezés fázisban?
+*El kell dönteni, hogy mely funkciók legyenek megvalósítva hardver, és melyek szoftver által.
+*Elő kell állítani a hardver és szoftver rendszerterveket.
+El kell dönteni, hogy a szoftver rendszert milyen funkciókra bontjuk fel és azok milyen környezetben kerülnek megvalósításra.
+Elő kell állítani a szoftver modulok tervdokumentációját.
+| Mi a HW-SW co-design?
+*Ebben a megközelítésben a tervezési folyamatnak csak egy későbbi szakaszában dől el a HW-SW- megosztás.
+A hardver és szoftver fejlesztés szétválasztására ad irányelveket.
+Ebben a megközelítésben mindvégig egységes alapokon történik a hardver és szoftver tervezés.
+Egy rendszerfejlesztési életciklus modellt definiál.
+| Mi a hazárd?
+*Olyan helyzet, amely valóságos vagy lehetséges veszélyt jelent az emberek vagy a környezet számára.
+Egy kockázathoz kapcsolódó események és azok következményei, valószínűségi alapon. Azt fejezi ki, hogy milyen valószínűségű veszélyes következményei lehetnek egy kockázatnak.
+A szoftver vagy hardver rendszer olyan komponense, mely veszély és hiba forrása lehet.
+Olyan szituáció, mely gazdasági, környezeti, emberi károkat okozhat.
+Egyik sem.
+| Mi a kockázat?
+*Egy hazárdhoz kapcsolódó események és azok következményei, valószínűségi alapon. Azt fejezi ki, hogy milyen valószínűségű veszélyes következményei lehetnek egy hazárdnak.
+Olyan helyzet, amely valóságos vagy lehetséges veszélyt jelent az emberek vagy a környezet számára.
+Olyan szituáció, mely gazdasági, környezeti, emberi károkat okozhat.
+A szoftver vagy hardver rendszer egy komponenséhez köthető valószínűségi alapú hibaforrás.
+Egyik sem.
+| Mit nevezünk mérföldkőnek?
+*Egy kiemelt teljesítési időpont egy projekt menetében.
+Az életciklus modellek egyes állomásait nevezzük mérföldkőnek.
+A mérföldkő a projektek kezdeti fázisára utal.
+Mérföldkő egy jól meghatározott tevékenység egy projekt menetében.
+Egyik sem.
+| Fejlesztési projekt esetén mit jelent a függőség?
+*Egy mérföldkőtől kiinduló tevékenységek csak akkor kezdődhetnek el, ha a mérföldkőbe befutó tevékenységek már befejeződtek.
+A szoftverrendszer egyes moduljai közti összefüggésre és kommunikációra utal.
+Meghatározza, hogy egy mérföldkő mikortól veheti kezdetét és milyen tevékenységektől függ.
+Megadja, hogy a szoftverrendszer moduljainak integrálása során mely modulokat és milyen sorrendben építsünk hozzá a rendszerhez.
+| Mi igaz az alábbi ábra esetén?
+
+*T6 tevékenység megkezdéséhez T3 tevékenységnek be kell fejeződnie.
+*T3 és T4 elvégzése között nincs összefüggés.
+M1 és M3 tevékenységek.
+T1, T3 és T4 tevékenységek párhuzamosan hajtódnak végre.
+M3 és M1 egy időben teljesülnek.
+T4 és T6 között nincs összefüggés.
+
+| Hogyan ábrázoljuk a mérföldköveket?
+*Lekerekített sarkú téglalap
+Lekerekített sarkú négyzet
+Ellipszis
+Téglalap
+Négyzet
+| Mire szolgál a tevékenységek és a mérföldkövek grafikus ábrázolása?
+*Időbeli összefüggések, időbeli kapcsolatok leírására.
+A rendszer modulok összeintegrálásának menetét határozza meg.
+A különböző életciklus modellek grafikus ábrázolására.
+Meghatározza a tevékenységek végrehajtásának sorrendjét.
+| Mi igaz az alábbi jelölés esetén? T3, T6 (M3)
+*Az M3 mérföldkő teljesüléséhez T3 és T6 tevékenységek teljesítése szükséges.
+*Az M3 mérföldkőből kiinduló tevékenységekhez T6 teljesülése szükséges.
+*Az M3 mérföldkőből kiinduló tevékenységekhez T3 és T6 tevékenységek teljesülése szükséges.
+T3 független tevékenység. T6 tevékenység M3 mérföldkő teljesülésétől függ.
+| Mi igaz az ütemezési terv esetén?
+*Felsoroljuk a tevékenységeket, meghatározzuk mindegyiknek az időtartamát.
+*Megadjuk a mérföldköveket.
+*Megadjuk a tevékenységek összefüggését.
+Grafikusan ábrázolhatjuk az ütemezési gráf segítségével.
+Megadja, hogy milyen modulokból épül fel a szoftver rendszer.
+| Mivel ábrázolhatjuk grafikusan az ütemezési tervet?
+*Tevékenységi diagram
+*Tevékenységi hálózat
+*Tevékenységi gráf
+Ütemezési gráf
+Egyik sem
+| Mi igaz az alábbi tevékenységi diagram (részlet) esetén?
+
+*A START állapotot pszeudó mérföldkőnek is nevezzük.
+M2 mérföldkő eléréséhez 24 időegységre van szükség, mert T2 és T3 tevékenységek összideje 24.
+
+T2 tevékenység elkezdéséhez 16 időegységre van szükség, mert T1 és M1 összideje 16.
+M2 mérföldkő eléréséhez szükséges időt úgy kapjuk, ha a tőle függő összes tevékenység és mérföldkő idejét összeadjuk úgy, hogy a mérföldkövek idejét negatívként értelmezzük.
+| Mi igaz a projekt-ütemezési táblázat esetén?
+*Tevékenységenként tartalmazza a tevékenységhez szükséges időt.
+*Tevékenységenként tartalmazza a függőségeket, mely megadja a tevékenység megkezdéséhez szükséges mérföldkövet és a mérföldkő eléréséhez szükséges tevékenységeket.
+Mérföldkövenként tartalmazza a mérföldkő eléréséhez szükséges időt.
+Mérföldkövenként tartalmazza a mérföldkő eléréséhez szükséges tevékenységeket.
+Megadja a projekt tevékenységeinek időrendi lefutását.
+| Mit nevezünk kritikus útnak?
+*Az egymás után elvégzendő tevékenységek azon sorozata, amely meghatározza a projekt teljes időtartamát.
+Azon tevékenységek sorozata, melyek biztonsági szempontból kiemelt hangsúlyt kapnak a fejlesztés során.
+Időrendben elvégzendő tevékenységek olyan sorozata, melyek összideje a projekt teljesítéséhez szükséges minimális időt definiálják.
+A fejlesztés azon tevékenységeinek halmazát, melyek nagymértékben befolyásolják a projekt befejezéséhez szükséges időt.
+| Mi igaz az alábbi kifejezés esetén? CP = T2 + T4 + T7 = 5 + 12 + 9 = 26
+*A projektben három kritikus tevékenység található.
+*A kritikus út hossza 26 időegység.
+*A projekt teljes időtartama 26 időegység.
+*A három kritikus tevékenység időtartama 26 időegység.
+A projektben három tevékenység található.
+| Mit nevezünk pszeudó-mérföldkőnek?
+*Tevékenységi diagramon a START állapotot.
+*Tevékenységi diagramon az END állapotot.
+*Tevékenységi diagramon a nem valódi mérföldköveket.
+Tevékenységi diagramon azokat az állapotokat, melyek a fejlesztés sikeressége szempontjából minimális kockázatot jelentenek.
+Tevékenységi diagram tervezése során olyan mérföldkövek, melyek a végleges diagramon nem szerepelnek, csak a tervezést segítik.
+Tevékenységi diagramon az egyes tevékenységeket.
+| Az alábbi tevékenység diagram részleten mire utal az END állapot melletti 60-as szám?
+
+*Az END mérföldkő időpontja a kezdéstől számított 60. hét.
+*A projekt a terv szerint 60 hétig fog tartani.
+A T7 tevékenység befejezéséhez 60 hétre van szükség.
+A T7 és T8 tevékenység együttes befejezéséhez 60 hétre van szükség.
+
+| Mi látható az ábrán és mire szolgál?
+
+*Az ábrán egy Gantt-diagram látható. A projekt ütemezési tervének grafikus megjelenésére szolgál.
+Az ábrán egy Venn-diagram látható. A projekt tevékenységeinek időbeli sorrendjének leírására szolgál.
+Az ábrán egy tevékenységi diagram látható. A projekt ütemezési tervében lefektetett tevékenységek és azok időbeli függőségeinek megjelenítésére szolgál.
+Az ábrán egy esemény diagram látható. Ezen az egyes tevékenységeket egy vízszintes szakaszon ábrázoljuk, ahol a szakaszok egymás alatt helyezkednek el, abban a sorrendben, ahogy a nekik megfelelő tevékenységek követik egymást.
+
+| Mi igaz a Gantt-diagram esetén?
+*Az egyes tevékenységeket egy vízszintes szakaszon ábrázoljuk.
+*A különböző szakaszok úgy vannak eltolva egymáshoz képest, ahogyan a projektben tolódnak el az időben.
+*A projekt ütemezési tervének grafikus megjelenésére szolgál.
+Egy tevékenység jele egy téglalap.
+Az egymás után követő tevékenységeket az őket ábrázoló téglalapok összekötésével fejezzük ki.
+| A tevékenységi diagram és a Gantt-diagram információ hordozás szempontjából egymással ekvivalens?
+*Igen, mindkettő segítségével az ütemezési tervet ábrázolhatjuk.
+Igen, mindkettő segítségével a projekt életciklus modelljét ábrázolhatjuk.
+Igen, a két megnevezés ugyanarra a jelölésmódra utal.
+Nem, a Gantt-diagram nem ábrázolja a mérföldköveket, szemben az ütemezési diagrammal.
+Nem, az ütemezési diagram nem ábrázolja a párhuzamosan végzendő tevékenységeket, szemben a Gantt-diagrammal.
+| Mi igaz a tartalékidő esetén?
+*Angol megnevezése a slack time.
+Tartalék időnek nevezzük, amikor egy tevékenység befejezéséhez a szükséges időn felül további korlátozott idő is rendelkezésre áll úgy, hogy a projekt befejezési idejét nem befolyásolja.
+*A tartalékidőt a Gantt-diagramon grafikusan ábrázoljuk.
+Angol megnevezése a spare time.
+A tartalékidőt a tevékenység diagramon grafikusan ábrázoljuk.
+Tartalékidőnek nevezzük azt, amikor egy tevékenységet az előzetes tervekben megszabott időkorlát alatt sikerül teljesíteni.
+| Az alábbi diagram részlet esetén mely állítások igazak?
+
+
+*T3 tevékenység tartalékideje 9 hét.
+*T5 tevékenység tartalékideje 4 hét.
+*T7 tevékenység megkezdéséhez T3, T4 és T5 tevékenységek befejezése szükséges.
+T1 tevékenység tartalékideje 4 hét.
+T3 tevékenység tartalékideje 3 hét.
+T5 tevékenység tartalékideje 8 hét.
+T5 tevékenység megkezdéséhez T3 és T4 tevékenységek megkezdése szükséges.
+
+| Mely állítások igazak az alábbi diagram részlet esetén?
+
+*T6 és T8 tevékenységek együttes tartalékideje 6 hét.
+T6 tevékenység tartalékideje 6 hét.
+T8 tevékenység megkezdéséhez T7 tevékenység megkezdése szükséges.
+T8 tevékenység tartalékideje 6 hét.
+T7 tevékenység csak T6 tevékenységgel egy időben indítható.
+
+| Az alábbiak közül melyek nevezhetőek modulnak?
+*Szubrutin
+*Procedúra
+*Függvény
+*Metódus
+*Osztály
+| Milyen következtetést vonhatunk le a C(f1+f2) > C(f1) + C(f2) és E(f1+f2) > E(f1) + E(f2) egyenlőtlenségekből?
+*Könnyebb megoldani egy komplex feladatot úgy, hogy kezelhető részekre bontjuk, és a részfeladatokat külön-külön oldjuk meg.
+A szoftver modulok integrálása után nagymértékben megnőhet a rendszer komplexitása.
+Nem elegendő a szoftver modulok önálló tesztelése, a teljes rendszert is validálni kell, mert a rendszer integrálása után további, eddig felfedetlen hibák jöhetnek elő.
+A szoftver rendszer költsége nagymértékben növekedhet az integrálási folyamat során.
+| Mely állítások igazak az alábbiak közül?
+*Minél több modulra bontjuk a szoftvert, annál kisebb erőfeszítés kell egy-egy modul kifejlesztéséhez.
+*Az integrálási költség a modulok számának növekedésével exponenciálisan növekszik.
+Az integrálási költség a modulok számának növekedésével lineárisan növekszik.
+Minél több modulra bontjuk a szoftvert, annál több erőfeszítés kell egy-egy modul kifejlesztéséhez.
+Az integrálási költség a modulok számának növekedésével logaritmikusan növekszik.
+| Mi állapítható meg az alábbi ábráról?
+
+
+*Az 1. görbe mutatja az integrálási költséget.
+*A 2. görbe mutatja a fejlesztési költséget.
+*A 3. görbe mutatja a teljes szoftver költséget.
+*Az M érték megadja, hogy optimális esetben hány modulra bontsuk a szoftvert.
+A 3. görbe mutatja a projekt maximális költségét.
+A 2. görbe mutatja az integrálási költséget.
+Az 1. görbe mutatja a fejlesztési költséget.
+Az M értéke megadja az optimális fejlesztési ráfordítást.
+| A ráfordítási költségek számítása esetén mi igaz az M értékre?
+*Megadja az optimális modulszámot.
+*Értéke nagy ráfordítás árán számolható ki.
+Megadja a teljes szoftverköltséget.
+Értéke hatékonyan számolható.
+Megadja az optimális ráfordítási költséget.
+| Ráfordítási költségek esetén minek az ismeretében határozhatjuk meg (közelítőleg) M értékét?
+*Integrálási költség
+*Fejlesztési költség
+Teljes szoftver költség
+Tesztelési költség
+M értékét nem lehet előzetes számításokkal megbecsülni.
+| Mi igaz az alábbi ábra esetén?
+
+
+*„A” szoftver modul hívhatja „B” szoftver modult.
+*„B” szoftver modul átadhatja a vezérlést „A” szoftver modulnak.
+*„A” és „B” szoftver modulok.
+A két modul egyaránt hívhatja egymást.
+„A” és „B” tevékenységek.
+„A” és „B” tevékenység között függőségi kapcsolat áll fent.
+„B” tevékenység kezdetéhez „A” tevékenység befejezése szükséges.
+| Mely állítás igaz az alábbi ábra esetén?
+
+*„a” fan-in értéke 1.
+*„g” fan-out értéke 1.
+*„F” fan-in értéke 0.
+„d” fan-in értéke 2.
+„e” fan-out értéke 4.
+„i” fan-in értéke 7.
+„h” fan-in értéke 3.
+
+| Mely állítás igaz az alábbi ábra esetén?
+
+
+*Az „r” modulnak a legnagyobb a fan-in értéke.
+*Az „m” modulnak a legnagyobb a fan-out értéke.
+A „n” modul fan-in értéke 3.
+Az „i” modulnak a legnagyobb a fan-out értéke.
+Az „m” modulnak a legnagyobb a fan-in értéke.
+
+| Mely állítás igaz a szoftver hívási gráf esetén?
+*A modulokat téglalapok formájában ábrázoljuk.
+*Mindegyik modul hívhat más modulokat.
+Mindegyik modult hívhatja más modul.
+A modulok közti hívást nyilak segítségével ábrázoljuk.
+Egy modul tartalmazhat más modulokat.
+| Mely állítás igaz az alábbi ábra esetén?
+
+*Az „m-p-r” egy hívási lánc.
+*A „b-h” egy hívási lánc
+Az „i-f-d-a” egy hívási lánc
+A gráf hívási mélysége 4.
+
+A „k” modul hívási szélessége 5.
+| Mely állítás igaz az alábbi ábra esetén?
+
+*Az „e” modul hívási szintje 2.
+Az „e” modul hívási szintje 3.
+Az „e” modul hívási szintje 5.
+Az „e” modul hívási szintje 9.
+Az „e” modul hívási szintje 1.
+
+| Milyen jellemző tulajdonságai vannak egy hívási gráfnak?
+*Hívási lánc
+*Hívási út hossza
+Hívási magasság
+Hívási mélység hossza
+Hívási kör
+| Milyen jellemző tulajdonságai vannak egy hívási gráfnak?
+*Hívási mélység
+*Hívási szint
+*Hívási szélesség
+Hívási távolság
+Hívási kör
+| Mely állítás igaz az alábbi ábra esetén?
+
+
+*M=18
+*H=22
+*S=40
+W=7
+S=396
+S=29
+S=126
+
+| ívási gráf esetén mi határozza meg a rendszerméretet?
+*Modulok száma
+*Hívások száma
+Rendszer mélysége
+Rendszer szélessége
+Hívási mélység
+Hívási szélesség
+Hívási szint
+| Az alábbiak közül melyek a teljes rendszerre vonatkozó mérőszámok?
+*Code length
+*Line of code
+Function point
+Card és Glass mérőszámai
+Henry és Kafura mérőszámai
+| Az alábbiak közül melyek a forráskódra vonatkozó mérőszámok?
+*Halstead-számok
+*McCabe-féle szám
+KLOC
+Henry és Kafura mérőszámai
+Function point
+| Az alábbiak közül melyek az architektúrára vonatkozó mérőszámok?
+*Card és Glass mérőszámai
+*Henry és Kafura mérőszámai
+MLOC
+Line of Code
+Halstead-számok
+| Az alábbi állítások közül melyek igazak?
+*A KLOC a teljes rendszerre vonatkozik.
+A Halstead-számok a forráskódra vonatkoznak.
+Henry és Kafura mérőszámai a teljes rendszerre vonatkoznak.
+A McCabe-féle szám a forráskódra vonatkozik.
+Card és Glass mérőszámai a teljes rendszerre vonatkoznak.
+| Az Alábbi állítások közül melyek igazak?
+*A funkció-orientált számok a teljes rendszerre vonatkoznak.
+*Card és Glass mérőszámai az architektúrára vonatkoznak.
+*A Halstead-számok a forráskódra vonatkoznak.
+Az MLOC a forráskódra vonatkozik.
+A code length a forráskódra vonatkozik.
+| Mit ad meg a LOC?
+*A forráskód sorainak a számát.
+A forráskód utasításainak a számát.
+A forráskódban szereplő logikai elágazások számát.
+A forráskódban szereplő különálló blokkok számát.
+A forráskód karaktereinek számát.
+| Mely állítás igaz az alábbiak közül?
+*A LOC a Line of Code rövidítése.
+*A LOC megadja a forráskód sorainak a számát.
+*A LOC a teljes rendszerre vonatkozó mérőszám.
+A LOC megadja a forráskód parancsainak számát.
+A LOC a List of Commands rövidítése.
+A LOC a forráskódra vonatkozó mérőszám.
+| Az alábbiak közül melyik igaz?
+*1 KLOC = 1000 LOC
+*1 MLOC = 1000000 LOC
+*A LOC méret-orientált szám.
+1 KLOC = 1024 LOC
+1 MLOC = 1024 KLOC
+A LOC forráskódra vonatkozó mérőszám.
+| Funkciópont számítás esetén milyen működési részterületekkel dolgozunk?
+*Felhasználói bemenetek száma.
+*Felhasználói kimenetek száma.
+Szoftver interakciók száma.
+Kezelt memóriaterület mérete.
+Szoftver modulok száma.
+| Funkciópont számítás esetén milyen működési részterületekkel dolgozunk?
+*Felhasználói lekérdezések száma.
+*A kezelt fájlok száma.
+*Külső interfészek száma.
+Felhasznált osztályok száma.
+Modul kapcsolatok száma.
+| Az alábbiak közül melyek igazak?
+*A funkciópont funkció-orientált szám.
+*A funkciópont a teljes rendszerre vonatkozó szám.
+A funkciópont számítás során a fun-in és fun-out értékeket vesszük alapul.
+A funkciópont a forráskódra vonatkozó szám.
+A funkciópont számítás során 4 meghatározott működési részterületet veszünk alapul.
+| Az alábbiak közül melyek igazak?
+*Funkciópont számításnál 5 meghatározott működési részterületet veszünk alapul.
+*Egy szoftverhez több funkciópont tartozik.
+Egy szoftverhez egy meghatározott funkciópont tartozik.
+Funkciópont számítás során tetszés szerint súlyozzuk a részterületeket.
+Minden szoftverhez 5 funkciópont tartozik.
+| Egy szoftverre vonatkozó funkciók száma és azok súlyértékei láthatóak pontosvesszővel tagolva, ahol az első érték a funkció száma, második a súlyérték. Milyen funkciópontokkal rendelkezik a szoftver? 2;1 3;2 1;1 4;2 2;5
+*Egyik sem, az adatok hibásak.
+2, 6, 1, 8, 10, 27
+2, 6, 1, 8, 10, 960
+3, 5, 2, 6, 10, 26
+3, 5, 2, 6, 10, 26, 1800
+| Legyen p1 és p2 szoftverek. A p1 szoftver összesített funkciópontja 120, a p2 szoftver összesített funkciópontja 42. Funkcionálisan mely szoftver értékesebb?
+*A p1 szoftver értékesebb, mert magasabb az összesített funkciópontja.
+A p2 szoftver értékesebb, mert alacsonyabb az összesített funkciópontja.
+A funkcionális érték nem eldönthető a pusztán a funkciópontokból.
+A funkcionális érték meghatározásához szükség a p1 és p2 szoftverek működési részterületekre bontott funkciópontjaikra.
+A p1 szoftver értékesebb, amennyiben a két szoftver LOC értékei is ugyanolyan arányban állnak, mint a funkciópontjaik.
+| Milyen alapszámok találhatóak Halstead mérőszám rendszerében?
+*n1: a programban található különböző műveletek (operátorok), ill. műveleti jelek száma.
+*n2: a programban található különböző operandusok száma.
+n1: a programban található különböző utasítások száma.
+n2: a programban található különböző műveletek (operátorok), ill. műveleti jelek száma.
+n1: a programban található logikai elágazások száma.
+| Milyen alapszámok találhatóak Halstead mérőszám rendszerében?
+*N1: az összes előforduló műveletek, ill. műveleti jelek száma a programban.
+*N2: az összes előforduló operandusok száma a programban.
+N1: az összes előforduló logikai elágazás a programban.
+N2: az összes előforduló utasítás a programban.
+N1: az összes előforduló vezérlési szerkezet a programban.
+| Az alábbiak közül melyek igazak?
+*A Halstead-féle mérőszámok a forráskódra vonatkoznak.
+*Halstead 4 alapszámot használ a mérőszám rendszerében.
+A Halstead-féle mérőszámok a teljes rendszer összetettségének mérésére szolgálnak.
+Halstead az utasítások számából határozza meg mérőszámát.
+Halstead a logikai elágazások számából határozza meg mérőszámát.
+| Az alábbiak közül melyek igazak?
+*Halstead 3 mérőszámot definiált.
+*Halstead mérőszámai a modulok forráskódjára vonatkozik.
+*A Halstead-féle mérőszámot a teljes rendszerre nézve is értelmezhetjük.
+A Halstead-féle mérőszámok a forráskódban szereplő logikai elágazásokra épülnek.
+Halstead 4 mérőszámot definiált.
+| Halstead milyen mérőszámokat vezetett be?
+*A forráskód becsült hossza.
+*A forráskód aktuális hossza.
+*A program tárgykódjának számított volumene.
+A program tárgykódjának számított bájtmérete.
+A forráskódban található operandusok száma.
+A forráskódban található operátorok száma.
+| Hogyan számítható a forráskód becsült hossza Halstead mérőszáma alapján?
+*N(b) = n1 * log2 n1 + n2 * log2 n2
+N(b) = N * log2 (n1 + n2)
+N(b) = N1 + N2
+N(b) = (N1 + N2) * log2 (n1 + n2)
+N(b) = log2 n1 * log2 n2
+| Hogyan számítható a forráskód aktuális hossza Halstead mérőszáma alapján?
+*N = N1 + N2
+N = n1 * log2 n1 + n2 * log2 n2
+N = log2 n1 * log2 n2
+N = (N1 + N2) * log2 (n1 + n2)
+N = N(b) * log2 (n1 + n2)
+| Hogyan számítható a program tárgykódjának volumene Halstead mérőszáma alapján?
+*V = N * log2 (n1 + n2)
+V = N1 + N2
+V = n1 * log2 n1 + n2 * log2 n2
+V = log2 n1 * log2 n2
+V = (n1 + n2) * log2 (n1 + n2)
+| Halstead mérőszámai közül mit fejez ki a „V” értéke?
+*Az elkészült program bonyolultságát.
+*A programozó szellemi ráfordítását.
+*A program tárgykódjának számított volumenét.
+A forráskód becsült hosszát.
+A szoftver rendszer becsült méretét.
+| Mitől függ MC értéke?
+*A logikai döntések számától.
+Az operandusok számától.
+Az operátorok számától.
+A forráskód hosszától.
+A rendszer méretétől.
+| Hogyan számolható MC értéke?
+*MC = D + 1
+MC = n1 * log2 n1 + n2 * log2 n2
+MC = fan-out(i)^2
+MC = S(i) + D(i)
+MC = L(i) * (fan-in(i) + fan-out(i))^2
+| Az alábbiak közül mely igaz?
+*A McCabe-féle szám a forráskódra vonatkozik.
+*A McCabe-féle szám a logikai döntések számától függ.
+*A McCabe-féle szám a program különböző utasítás-végrehajtási lehetőségeinek a számát adja meg.
+A McCabe-féle szám az architektúrára vonatkozik.
+A McCabe-féle szám a forráskód hosszától függ.
+| Vegyük az alábbi folyamat-diagramot. Mennyi MC értéke?
+
+*MC = 4
+MC = 3
+MC = 6
+MC = 9
+MC = 7
+
+| Az alábbiak közül mely igaz?
+*A McCabe-féle szám esetén a cél az MC értékének minimális szinten tartása.
+A McCabe-féle szám egy szoftver rendszer bonyolultságára utal.
+A McCabe-féle szám méri a modulok közti kapcsolat komplexitását.
+McCabe szerint az az optimális, ha az MC értéke nagyobb, mint 10.
+| Egy szoftver modul esetén MC = 26. Mire tudunk ebből következtetni?
+*A modul logikai elágazásainak száma 25.
+*A modul nagy valószínűséggel nehezen áttekinthető, nehezen kezelhető.
+A modul forráskódjának hossza 26 kódsor.
+A modulban 26 utasítás található.
+A modul elágazásainak száma 26.
+A modul forráskódjának utasítás-végrehajtási lehetőségeinek száma 25.
+| A Card és Glass mérőszámai miről adnak információt?
+*A modulok információs kapcsolatáról.
+A forráskód méretéről.
+A modulok belső struktúrájáról.
+A modulok logikai felépítéséről.
+| Milyen mérőszámokat vezetett be Card és Glass?
+*Strukturális komplexitás
+*Adat-komplexitás
+Információ-komplexitás
+Logikai komplexitás
+Erőforrás komplexitás
+| Milyen mérőszámokat vezetett be Card és Glass?
+*Modul-komplexitás
+*Architekturális komplexitás
+Rendszer komplexitás
+Logikai komplexitás
+Teljes szoftver komplexitás
+| Card és Glass mérőszámai esetén mi az S(i) érték?
+*S(i) = fan-out(i)^2
+S(i) = v(i) / (fan-out(i) + 1)
+S(i) = C(i) + D(i)
+S(i) = fan-in(i) / fan-out(i)^2
+S(i) = C(1) + C(2) + C(3) + … + C(M-1) + C(M)
+| Card és Glass mérőszámai esetén mi a D(i) érték?
+*D(i) = v(i) / (fan-out(i) + 1)
+D(i) = C(1) + C(2) + C(3) + … + C(M-1) + C(M)
+D(i) = C(i) + S(i)
+D(i) = fan-out(i)^2
+D(i) = fan-in(i) / fan-out(i)^2
+| Card és Glass mérőszámai esetén mi a C(i) érték?
+*C(i) = S(i) + D(i)
+C(i) = D(1) + D(2) + D(3) + … + D(M-1) + D(M)
+C(i) = v(i) / (fan-out(i) + 1)
+C(i) = fan-in(i) / fan-out(i)^2
+C(i) = fan-out(i)^2
+| Card és Glass mérőszámai esetén mi az AC érték?
+*AC = C(1) + C(2) + C(3) + … + C(M-1) + C(M)
+AC = D(1) + D(2) + D(3) + … + D(M-1) + D(M)
+AC = S(1) + S(2) + S(3) + … + S(M-1) + S(M)
+AC = C(1) * C(2) * C(3) * … * C(M-1) * C(M)
+AC = D(1) * D(2) * D(3) * … * D(M-1) * D(M)
+AC = S(1) * S(2) * S(3) * … * S(M-1) * S(M)
+| Card és Glass mérőszámai esetén mi a v(i) érték?
+*Az i-edik modul be- és kimeneti hívási paramétereinek száma.
+Az i-edik modul forráskódjának mérete.
+Az i-edik modul logikai elágazásainak száma.
+Az i-edik modul adat-komplexitásának a mérete.
+Az i-edik modul változóinak száma.
+| Egy szoftver modul szétágazásainak száma 3, input és output változóinak együttes darabszáma 8. Mekkora a modul strukturális komplexitása?
+*9
+3
+4
+2
+A megadott információból nem meghatározható.
+| Egy szoftver modul szétágazásainak száma 3, input és output változóinak együttes darabszáma 8. Mekkora a modul adat-komplexitása?
+*2
+9
+3
+4
+A megadott információból nem meghatározható.
+| Egy szoftver modul strukturális komplexitása 9, adat-komplexitása 2, input és output változóinak együttes darabszáma 8. Mekkora a modul-komplexitása?
+*11
+18
+7
+9
+A megadott információból nem meghatározható.
+| Egy szoftver rendszer 4 modulból épül fel, melyek modul-komplexitási értékei sorra 2, 4, 3 és 5. Mekkora az architekturális-komplexitás?
+*14
+120
+15
+240
+A megadott információból nem meghatározható.
+| Az alábbi ábra esetén mi lehet a koordináta tengelyek neve?
+
+*Vízszintes tengely: architekturális komplexitás, függőleges tengely: Hiba / 1 KLOC
+Vízszintes tengely: architekturális komplexitás, függőleges tengely: adat-komplexitás
+Vízszintes tengely: teljes szoftver komplexitás, függőleges tengely: Hiba / 1 KLOC
+Vízszintes tengely: teljes szoftver komplexitás, függőleges tengely: adat-komplexitás
+Vízszintes tengely: architekturális komplexitás, függőleges tengely: modul-kompexitás
+Vízszintes tengely: teljes szoftver komplexitás, függőleges tengely: modul-komplexitás
+
+| Card és Glass kutatásaik eredményeként milyen kapcsolatot vélt felfedezni az architekturális komplexitás és a szoftver hibák között?
+*A két mérték között lineáris kapcsolat van.
+A két mérték között exponenciális kapcsolat van.
+A két mérték között logaritmikus kapcsolat van.
+A két mérték között nem találtak összefüggést.
+A kutatást nem Card és Glass végezte.
+| Az alábbiak közül mely állítás igaz?
+*Card és Glass mérőszámai nem veszik figyelembe az összeágazásokat.
+*Henry és Kafura mérőszámai figyelembe veszik az összeágazásokat.
+*Card és Glass mérőszámai figyelembe veszik a szétágazásokat.
+*Henry és Kafura mérőszámai figyelembe veszik a szétágazásokat.
+Card és Glass mérőszámai figyelembe veszik az összeágazásokat.
+Henry és Kafura mérőszámai nem veszik figyelembe az összeágazásokat.
+Card és Glass mérőszámai nem veszik figyelembe a szétágazásokat.
+Henry és Kafura mérőszámai nem veszik figyelembe a szétágazásokat.
+| Miként definiálta Henry és Kafura a komplexitási mérőszámot?
+*HKM(i) = L(i) * (fan-in(i) + fan-out(i))^2
+HKM(i) = fan-in(i) / fan-out(i)^2
+HKM(i) = fan-in(i) + fan-out(i)
+HKM(i) =fan-in(i)^2 * fan-out(i)^2
+HKM(i) = v(i) / (fan-out(i) + 1)
+| Henry és Kafura mérőszámában mi az L(i) érték?
+*Az i-edik modul forráskódjának hossza.
+Az i-edik modul felhasználói be- és kimeneteinek száma.
+Az i-edik modul fan-in és fan-out értékeinek összege.
+Az i-edik modul forráskódjában szereplő logikai elágazások száma.
+| Miként kapjuk a teljes szoftver komplexitását?
+*HKM = HKM(1) + HKM(2) + HKM(3) + … + HKM(M-1) + HKM(M)
+HKM = HKM(1) * HKM(2) * HKM(3) * … * HKM(M-1) * HKM(M)
+AC = C(1) + C(2) + C(3) + … + C(M-1) + C(M)
+AC = C(1) * C(2) * C(3) * … * C(M-1) * C(M)
+AC = AC(1) + AC(2) + AC(3) + … + AC(M-1) + AC(M)
+| McCabe miként definiálta a teljes rendszer komplexitását?
+*McCabe nem definiálta a teljes rendszer komplexitását.
+MC = MC(1) + MC (2) + MC (3) + … + MC (M-1) + MC (M)
+AC = C(1) + C(2) + C(3) + … + C(M-1) + C(M)
+AC = AC(1) + AC(2) + AC(3) + … + AC(M-1) + AC(M)
+| Az alábbiak közül mely igaz?
+*A HKM az architektúrára vonatkozik.
+*A HKM az összeágazások és a szétágazások számát is figyelembe veszi.
+*A HKM megadja a teljes rendszer komplexitást.
+*A HKM növekedése az integrálási és tesztelési költségek növekedésével jár.
+A HKM csak az összeágazásokat veszi figyelembe.
+A HKM csak a szétágazásokat veszi figyelembe.
+A HKM a teljes rendszerre vonatkozik.
+| Egy szoftver projekt tervének milyen fő összetevői vannak?
+*A fejlesztés célja.
+*Rendelkezésre álló erőforrások.
+*Rendelkezésre áll pénzügyi források.
+Fejlesztési életciklus modellek.
+Szoftver modulok terve.
+Fejlesztési és felhasználói dokumentációk.
+| Mi a Rayleigh-függvény?
+*Megadja a szükséges emberi erőforrást az idő függvényében.
+Megadja a szükséges emberi erőforrást az projekt méretének függvényében.
+Megadja a szükséges pénzügyi erőforrást az idő függvényében.
+Megadja a szükséges pénzügyi erőforrást a projekt méretének függvényében.
+| Minek a becslésére lehet alkalmas a Rayleigh-eloszlás?
+*Emberi ráfordítás
+*Utazás
+*Számítógép felhasználás
+*Szoftver eszközök felhasználása
+*Irodai eszközök felhasználása
+Szoftver költségek
+Fejlesztési idő
+| Az alábbiak közül melyek igazak?
+*A Rayleigh-eloszlás az emberi ráfordítást határozza meg az idő függvényében.
+A Rayleigh-eloszlást RC(t)-vel jelöljük, ahol t az idő, RC pedig a Rayleigh Consumption rövidítése.
+A Rayleigh-eloszlásban az időnek nullától nagyobb értéket kell felvennie.
+A Rayleigh-eloszlás függvényében található „k” konstans egy a projektre jellemző érték, egy kritikus pontot határoz meg a függvényben.
+A Rayleigh-eloszlás függvényében található „v” konstans egy a projektre jellemző érték, a szoftver volumenéről ad információt.
+| Mi az RC(t)?
+*RC(t) = t / (k^2) * e^(-t^2 / (2 * k^2))
+RC(t) = (k^2) / t * e^(t^2 / (2 * -k^2))
+RC(t) = v(t) / (fan-out(t) + 1)
+RC(t) = v(t) / (fan-out(t) * fan-in(t))^2
+| Mi jellemző a Rayleigh függvény-görbe menetére?
+*Értéke kezdetben nulla, majd hirtelen növekedésbe kezd, míg végül eléri a maximális „k” értékét, ami után a kezdeti növekedéshez képest lassabb ereszkedésbe zárul.
+Értéke kezdetben nullánál nagyobb, de jellemzően alacsony, majd lassú növekedésbe kezd, melynek eredményeként eléri maximális „k” értékét, s végül hirtelen leszökik a nulla értékre.
+A „k” értékről indul a görbe, s lassú, bizonytalan ereszkedés során éri el a nulla értéket.
+Értéke kezdetben alacsony, majd hirtelen növekedés során éri el a „k” értéket, ekkor rövid ideig stagnál „k” értéke körül, majd hosszan tartó ereszkedésben zárul.
+| Hogyan nevezné el az egyes tengelyeket? Mit jelöl a „k” érték?
+
+*Vízszintes tengely: idő, függőleges tengely: emberi ráfordítás
+*A „k” érték egy a projektre jellemző konstans tulajdonság, „k” időpontban lesz legnagyobba projekt erőforrásigénye.
+Vízszintes tengely: idő, függőleges tengely: anyagi ráfordítás
+Vízszintes tengely: költség, függőleges tengely: emberi ráfordítás
+A „k” érték egy a projektre jellemző konstans tulajdonság, azt az időpontot jelenti, amikor előreláthatólag kritikus fejlesztési fázishoz érkezik a projekt.
+A „k” érték egy a projektre jellemző konstans tulajdonság, azt a költséghatárt adja meg, mely alatt a projekt még nyereséges lehet.
+
+| Mi az AVC?
+*Kódsorok átlagos száma funkciópontonként.
+Parancsok átlagos száma funkciópontonként.
+Funkciópontok átlagos száma kódsoronként.
+Funkciópontok átlagos száma parancsonként.
+Modulok átlagos száma projektenként.
+| Mely állítások igazak az alábbi képlet esetén? Ráfordítás = A * W * Méret^B
+*Az „A” egy konstans tényező, amelynek értéke függ a fejlesztendő szoftver jellegétől, típusától, bonyolultságától.
+*A „Méret” a szoftverre vonatkozik. Lehet utasításszám, a kódsorok száma, vagy a rendszer összesített funkciópontja.
+A „W” a projektben résztvevő személyek átlagos száma.
+A „B” kitevő értéke általában 3 és 15 közé eső szám, a projekt bonyolultságától függően.
+Az egyenlet megadja a teljes szoftver projekt emberi ráfordítását.
+| Mit ad meg az AVC * FP szorzat eredménye?
+*Kódméret
+Modulméret
+Modulok száma
+Modul komplexitása
+Kód logikai komplexitása
+| Mi igaz az alábbi kifejezés esetén? 4E → 2H, 8E → 4H, 6E → 3H
+*A projekt időtartama 11 hónap.
+A projekt időtartama 58 hónap
+A projekt időtartama 58 hét.
+A projekt időtartama 11 hét.
+A projekt időtartama 4 hónap.
+A projekt időtartama 4 hét.
+| Az alábbi esetben mennyi LSZ értéke? 5E → 2H, 9E → 1H, 3E → 2H
+*5E
+15E
+5H
+15H
+| Mi az LSZ értéke?
+*(E_1 * H_1 + E_2 * H_2 + … + E_n * H_n) / (H_1 + H_2 + … + H_n)
+(H_1 + H_2 + … + H_n) / (E_1 * H_1 + E_2 * H_2 + … + E_n * H_n)
+(E_1 * H_1 + E_2 * H_2 + … + E_n * H_n) / (H_1 * H_2 * … * H_n)
+(E_1 * H_1 + E_2 * H_2 + … + E_n * H_n) / (E_1 + E_2 + … + E_n)
+(E_1 + E_2 + … + E_n) / (E_1 * H_1 + E_2 * H_2 + … + E_n * H_n)
+| Mi az NH értéke?
+*H_1 + H_2 + … + H_n
+E_1 + E_2 + … + E_n
+H_1 * H_2 * … * H_n
+E_1 * E_2 * … * E_n
+EH_1 + EH_2 + … + EH_n
+EH_1 * EH_2 * … * EH_n
+| Egy projekt esetén LSZ = 5E. Mely projekt megoszlás esetén igaz ez?
+*7E → 1H, 4E → 2H
+*5E → 2H, 9E → 1H, 3E → 2H
+2E → 1H, 3E → 2H
+8E → 1H, 2E → 2H
+2E → 3H, 4E → 1H, 4E → 1H
+| A COCOMO-modell alapján miként kaphatjuk meg az emberhónap értékét?
+*EH = a * KLOC^b
+EH = c * KLOC^d
+EH = a * NH^b
+EH = c * NH^d
+EH = LSZ / NH
+| Az alábbiak közül melyik lehet az emberhónap a COCOMO-modell esetén?
+*EH = 2,4 * KLOC^1,05
+EH = 3 * KLOC^1,2
+EH = 2,5 * KLOC^0,38
+EH = 1,12 * KLOC^2,5
+| A COCOMO-modell alapján miként kaphatjuk meg az naptári hónap értékét?
+*NH = c * EH^d
+*NH = c * a^d * KLOC^(b*d)
+NH = a * KLOC^b
+NH = c^d * MLOC^d
+NH = c * (a * KLOC^d)^b
+| Boehm a modelljében milyen kategóriákba sorolta a szoftvereket?
+*Normál szoftverek
+*Összetett szoftverek
+*Beágyazott szoftverek
+Rendszer szoftverek
+Üzleti célú szoftverek
+Mesterséges intelligencia szoftverek
+| Az alábbi ábra esetén milyen címkéket írni a számokkal jelzett helyekre?
+
+
+*1: NH, 2: EH, 3: KLOC
+1: EH, 2: NH, 3: KLOC
+1: NH, 2: LSZ, 3: KLOC
+1: RC, 2: EH, 3: Idő
+1: RC, 2: NH, 3: Idő
+
+| A COCOMO-modell alapján miként kaphatjuk meg az átlagos ráfordítási létszámot?
+*LSZ = (a * KLOC^b) / (c * a^d * KLOC^(b*d))
+*LSZ = a^(1 - d) / c * KLOC^(b*(1 - d))
+LSZ = c * a^d * KLOC^(b*d)
+LSZ = a * KLOC^b
+LSZ = c * (a * KLOC^b)^d
+| Az alábbiak közül mely állítás igaz?
+*Boehm modellje csak a KLOC értékétől függ.
+*Boehm modelljét arra feltételezi, hogy a projektben mindig a megfelelő számú fejlesztő ember áll rendelkezésre.
+Boehm modellje figyelembe veszi a projektbe bevont emberek számát.
+Boehm hét kategóriába sorolta a szoftver projekteket.
+| Boehm modelljében mi az alapvető különbség a normál és az összetett szoftver között?
+*A normális szoftver nem függ a környezettől, nincsenek kapcsolatai, míg az összetett szoftver környezetfüggő, külső kapcsolatokkal rendelkezik.
+A normál szoftver komplexitása alacsony, jellemzően 1-2 modulból tevődik össze, ezzel szemben az összetett szoftver sok modulos, jellemzően nagy volumenű fejlesztés.
+A normál szoftver külső interfészek segítségével kommunikál külső hardver eszközökkel, míg az összetett szoftver magába a célhardverbe integrálva működik.
+Boehm modelljében nem szerepel normál szoftver.
+| Mely állítás igaz a COCOMO-modell esetén?
+*Az EH görbéje gyorsabban növekszik, mint a kódméret.
+*Az NH görbe azt tükrözi, hogy a fejlesztés kezdeti szakaszában több idő kell a kódoláshoz.
+Ha ismerjük EH értékét és tisztázott, hogy hány ember vesz részt a szoftver-projektben, akkor NH értéke jól becsülhető.
+Az EH görbe a projekt későbbi szakaszában egyre lassabban növekszik, ami arra utal, hogy a szoftver befejezéséhez egyre kevesebb plusz idő szükséges.
+AZ EH és NH értéke függ a kódmérettől és a projektben résztvevő emberek számától.
+| Mit jelent a „Use case”?
+A felhasználótól / megrendelőtől kapott megvalósítási részletek gyűjtőneve, használati eset.
+*Használati eset, szoftverfunkció, amelyet a fejlesztendő szoftverrendszernek meg kell valósítani.
+Használati eset, osztályleírás, mely meghatározza, hogy milyen megvalósítási részletekre lesz szükség.
+| Mit értünk „business case” alatt?
+*Üzleti igény, vagy üzleti gyakorlat, ügymenet, mely sok esetben kiváltja a fejlesztést.
+Használati eset, szoftverfunkció, amelyet a fejlesztendő szoftverrendszernek meg kell valósítani.
+| Mik az UML általános szerepei a fejlesztésben?
+*Vizuálisan specifikálja, megjeleníti, ill. dokumentálja egy szoftver-fejlesztés fázisainak eredményét.
+*Hasznos a különböző tervezési alternatívák leírására, valamint az eredmények dokumentálására.
+Az UML-diagramok a megvalósítandó objektum-orientált rendszer kizárólag dinamikus megjelenítésére szolgálnak.
+*Az UML-diagramok egyaránt alkalmasak a megvalósítandó objektum-orientált rendszer statikus és dinamikus megjelenítésére.
+Az UML célja kizárólag a megrendelő – elemző párbeszéd segítése.
+| Mi a különbség egy rendszer statikus és dinamikus nézete között?
+A dinamiuks nézet az OO elemek közötti állandó kapcsolatokat dokumentálja, míg a statikus nézet a futás közbeni változásokat mutatja.
+*A statikus nézet az OO elemek közötti állandó kapcsolatokat dokumentálja, míg a dinamiuks nézet a futás közbeni változásokat mutatja.
+| Mik tartoznak az UML statikus diagramjai közé?
+*Osztálydiagram
+*Csomagdiagram
+Aktivitási diagram
+*Telepítési diagram
+*Komponens diagram
+Use case diagram
+Állapot-átmenet diagram
+| Mik tartoznak az UML dinamikus diagramjai közé?
+*Use case
+Osztálydiagram
+*Aktivitás diagram
+Komponens diagram
+*Állapot-átmenet diagram
+*Interakciós diagramok
+| Mik tartoznak a rendszer határainak meghúzásához?
+*Anyagi
+*Emberi
+*Erőforrásbeli
+| Mi a felhasználói követelmények három csoportja?
+Szakmai
+*Nem funkcionális
+*Szakterületi
+Üzleti
+*Funkcionális
+| Az alábbiak közül melyek funkcionális követelmények?
+*A megrendelő kijelenti, hogy a nyilvántartott termék típusát betűk jelzik.
+A megrendelő kijelenti, hogy várhatóan 30.000 felhasználó lesz.
+A megrendelő kijelenti, hogy adott gomb megnyomásától számítva egy jelzésnek be kell következnie 10 másodperc alatt.
+A megrendelő kijelenti, hogy a rendelkezésre álló hardvert kell felhasználni a projekthez.
+*A megrendelő megadja, hogy a kamatozott összeg kiszámításához melyik képletet kell használni.
+*A megrendelő megadja, hogy milyen információkat kell tárolni a vevőikről.
+*A megrendelő megadja, hogy nála egy beszállító szigorúan csak egy terméket szállíthat.
+*A megrendelő rámutat, hogy az utazás és foglalás között csak 1:1 kapcsolat lehet
+*A megrendelő megadja, hogy az összesítő képernyőn milyenadatokat szeretne látni.
+*A megrendelő rámutat, hogy az összesítő képernyőn mikori adatok jelenjenek meg.
+| Az alábbiak közül melyek nem-funkcionális követelmények?
+A megrendelő kijelenti, hogy a nyilvántartott termék típusát betűk jelzik.
+*A megrendelő kijelenti, hogy várhatóan 30.000 felhasználó lesz.
+*A megrendelő kijelenti, hogy adott gomb megnyomásától számítva egy jelzésnek be kell következnie 10 másodperc alatt.
+*A megrendelő kijelenti, hogy a rendelkezésre álló hardvert kell felhasználni a projekthez.
+A megrendelő megadja, hogy a kamatozott összeg kiszámításához melyik képletet kell használni.
+A megrendelő megadja, hogy milyen információkat kell tárolni a vevőikről.
+A megrendelő megadja, hogy nála egy beszállító szigorúan csak egy terméket szállíthat.
+A megrendelő rámutat, hogy az utazás és foglalás között csak 1:1 kapcsolat lehet
+A megrendelő megadja, hogy az összesítő képernyőn milyenadatokat szeretne látni.
+A megrendelő rámutat, hogy az összesítő képernyőn mikori adatok jelenjenek meg.
+| Az alábbiak közül melyek minősülnek szakterületi követelménynek?
+Orvosi rendszer esetén: Menük a jobb oldalon legyenek.
+*Orvosi rendszer esetén vonatkozó törvényi szabályozás szerint a háromszoros biztonsági mentésre van szükség.
+Orvosi rendszer esetén egy beteghez több eset tartozhat.
+| Funkcionális követelmények UML használata esetén mivel írhatóak le?
+Telepítési és csomagdiagram
+*Use case diagramok
+Csomagdiagram és petri-hálók
+*Állapot átmeneti diagram
+*Technikai aktivitási diagram
+Komponens diagram
+| Az alábbiak közül melyek tartoznak a Use Case diagram elemei közé?
+*Actor
+*Kapcsolat
+*Use Case
+Állapot
+Tevékenység
+Csatlakozás
+| Válassza ki egy funkció feljesztésének működőképes sorrendjét
+Követelmények összegyűjtése  Tesztelés  Elemzés  Tervezés  Implementáció  Kibocsátás
+*Követelmények összegyűjtése  Elemzés  Tervezés  Implementáció Tesztelés  Kibocsátás
+Elemzés  Követelmények összegyűjtése  Tervezés  Implementáció Tesztelés  Kibocsátás
+Elemzés  Tervezés Követelmények összegyűjtése  Implementáció Tesztelés  Kibocsátás
+| Milyen módokon fejthető ki jobban egy Use Case?
+*Grafikusan aktivitási diagrammal
+*Grafikusan tevékenység diagrammal
+Komponens és telepítés diagramokkal
+Objektum diagrammal
+*Szövegesen forgatókönyvként, ez nem az UML része
+*Szövegesen forgatókönyvként, ez az UML része
+Vitakurzus rendezésével
+A követelményekből célszerű kigyűjteni a főneveket.
+| Mi a követelmény?
+*Olyan szolgáltatás, melynek teljesítését elvárjuk a tervezett alkalmazástól.
+*Olyan feltétel, melynek teljesítését (vagy az annak való megfelelést) elvárjuk a tervezett alkalmazástól.
+Olyan kódrészlet, melyet el fogunk készíteni a felhasználóval tartott beszélgetések után
+Olyan tervezési minta, melyet fel fogunk használni a tervezés során.
+*Olyan feltétel, képesség, szolgáltatás, melynek teljesítését (vagy az annak való megfelelést) elvárjuk a tervezett alkalmazástól.
+| Követelmények csoportosítása esetén milyen csoportosítás elképzelhető?
+Belső és külső követlemények
+*Funkcionális és nem funkcionális követelmények, szakterületi követelmények
+Publikus és védett követelmények
+| Mi a követelménymenedzsment célja?
+*Cél a követelmények változásának követhetősége
+Cél a követelmények központi gyűjtése
+Cél, hogy a követelményekhez mindenki hozzáférhessen
+Cél, hogy mindenki böngészhesse a követelményeket
+| Miért van szükség a követelmények priorizálására?
+Mert így egyértelműen látszik, hogy melyeket nem kell megvalósítani.
+Mert így az elemző eldöntheti, hogy melyik részek lesznek megvalósítva
+*Mert így könnyebb kiválasztani az először megvalósítandókat
+| Hány normál és hány alternatív működés tartozhat egy use case-hez?
+*Egy normál és az ésszerűség keretein belül tetszőlegesen sok alternatív
+Kötelezően és kizárólag csak egy normál működés
+Kötelezően és kizárólag csak egy normál lefutás
+Egy normál lefutáshoz kötelezően tartozik egy alternatív lefutás is
+| Milyen reláció van use case és forgatókönyvek között? Jelölje az igaz állításokat
+Egy use casehez kötelezően egy forgatókönyv tartozik
+*Egy use casehez tartozhat több forgatókönyv
+Egy use casehez kötelezően több forgatókönyv tartozik
+*Use casehez nem feltétlenül tartozik forgatókönyv
+*Minden forgatókönyvhöz tartozik use case
+Egy forgatókönyv tartozhat több use casehez is
+| Forgatókönyvek az UML részét képezik?
+*Nem
+Igen
+| Mik a jó forgatókönyv tulajdonságai?
+*Felhasználó szemszögéből van írva
+*Felhasználó és rendszer közötti üzenetváltásokat és akciókat írja le
+*Főleg arra koncentrál, hogy milyen üzenetek szerepelnek
+Kitér a technikai részletekre
+Részletesen kitér az adatokkal végzett műveletekre
+Az adatokon végzett műveletek csak tárgyilagosan vannak leírva
+*Elsősorban a normál működésre koncentrál
+| Melyik definíció illik leginkább az alábbiak közül erre: Felhasználói követelmény.
+A felhasználónak a projekttel szemben támasztott költségvetése.
+A felhasználónak a projekttel szemben támasztott elvárt költségvetése.
+*A felhasználónak a szoftverrel szemben támasztott igényei és elvárásai
+A felhasználónak a szoftverrel szemben támasztott prioritási sorrendje.
+Mik a felhasználói követelmények jellemzői?
+Gyakran részletesek, technikai megvalósítási részletekkel
+Tervezési mintákat tartalmaznak
+*Gyakran magas szintű és absztrakt követelmények
+*Valószínűleg egyszerűbb UML diagramok és természetes leírás
+*Annak leírása, hogy milyen szolgáltatásokat, milyen feltételek és megszorítások mellett vár el a megrendelő
+| Melyik definíció illik leginkább az alábbiak közül erre: Nem funkcionális követelmény.
+*A rendszer funkcióival és szolgáltatásaival kapcsolatos megszorítások
+Olyan elemzői megkötés, mely leírja a funkciók belső sorrendjét
+| Melyik definíció illik leginkább az alábbiak közül erre: Szakterületi követelmény.
+*A rendszer szakterületén alkalmazott előírások és megszorítások
+Kizárólag a szakértőtől származó funkcionális követelmények tartoznak ide.
+Kizárólag a szakértőtől származó nem funkcionális követelmények tartoznak ide.
+Csak a törvényi előírások tartoznak ide.
+| Az alábbiak közül mi a szakterületi követelmények jellemzője?
+*Természetesen lehetnek funkcionális és nem funkcionális követelmények
+Kizárólag védett követelmények lehetnek, melyeket a törvények határoznak meg
+Természetesen csak a szakértők által megadott képernyőtervek tartoznak ide.
+| A fejlesztés során mikorra áll elő a use case modell?
+A legtöbb esetben a tervezés végére.
+Az implementáció végére
+*Tipikusan a követelményspecifikáció végére
+Tipikusan a tesztelés elején keletkezik
+| Mik a use case modell jellemzői?
+*Tervezett funkcionalitást írja le
+*Tervezett működést írja le
+*Felhasználói szemszögből készül
+| Mik a use case modell elemei?
+*Aktorok
+Interfészek
+*Kapcsolatok
+*Use casek
+Osztályok
+| Melyik definíció illik leginkább az alábbiak közül erre: Use Case egy use case modellben?
+Olyan cselekvések, melyeket a felhasználó végez.
+*Szoftverfunkciók, amelyeket a fejlesztendő szoftverrendszernek meg kell valósítani.
+Olyan szoftverfunkciók, melyeket a felhasználó valósít meg.
+| Melyik definíció illik leginkább az alábbiak közül erre: Aktor egy use case modellben?
+*A rendszer határán kívül vannak, a rendszerrel kapcsolatba kerülnek, hogy a rendszerrel feladatokat (szoftverfunkciók) hajtsanak végre
+A rendszer határán belül vannak, a rendszer feladatait (szoftverfunkciók) hajtják végre
+| Melyik definíció illik leginkább az alábbiak közül erre: Kapcsolat egy use case modellben?
+*Az aktorok és use case-ek közötti viszonyrendszert definiálja
+Osztályhierarchiát mutat be
+Kizárólag use case – use case közötti speciális viszonyt definiálja
+| Mik a tipikus jellemzői az aktorok és use case-k megkeresésének?
+Tipikusan a felhasználótók kapott osztályspecifikáció alapján készítjük őket
+*Az elkészült aktorlista alapján nézzük meg – a felhasználó szemszögéből – mit várnak el a rendszertől!
+*A szakirodalom szerint elsőként könnyebb az aktorok listájának elkészítése, majd ezután a use case-k megkeresése
+Ezek már a fejlesztés előtt rendelkezésre állnak.
+| Mely állítások igazak az aktorokra?
+*Az aktorok nem kizárólag személyek, lehetnek elemek, dolgok, gépek-berendezések, üzleti egységek, vagy a rendszerrel kapcsolatot létesítő valamely külső rendszerek, rendszerkomponensek
+Az aktorok kizárólag a rendszer leendő felhasználói lehetnek, ezért jelük a pálcikaember.
+*A rendszer szereplője, valaki vagy valami a rendszer határán kívül, aki/ami kapcsolatba kerül a rendszerrel
+Az aktorok csak külső rendszerkomponensek lehetnek, melyek a rendszer határán kívül helyezkednek el.
+| Az alábbi listából melyek minősülhetnek aktornak?
+Konkrét (természetes személy)
+Konkrét jogi személy
+*Külső szolgáltatás
+*Megvásárolt rendszerkomponens
+*Külső üzleti egység
+*Egy felhasználói csoport
+| Az alábbi listából mely technikák lehetnek alkalmasak az aktorok azonosítására?
+*(Leendő) felhasználóval folytatott beszélgetés
+*Megrendelővel folytatott beszélgetés
+*Rendelkezésre álló dokumentációból kikeressük a főneveket
+Rendelkezésre álló dokumentációból kikeressük az igéket
+*Megpróbálunk válaszolni az alábbi kérdésre: Kommunikál-e az új rendszer más rendszerekkel?
+*Megpróbálunk válaszolni az alábbi kérdésre: Ki/mi használja a rendszert?
+Az aktorlista már rendelkezésre áll a fejlesztés előtt.
+Az aktorlistát a megrendelő átadja.
+| Jelölje az aktorokkal kapcsolatos igaz állításokat!
+*Egy felhasználó többfajta szerepet is játszhat/végezhet, többféle szerepkörben lehet
+*egy szerepkört több felhasználó is betölthet
+| Jelölje az aktorokkal kapcsolatos igaz állításokat!
+*A feladatok végrehajtását kezdeményező szereplőket kezdeményező szereplőnek nevezzük
+Az aktorlista már rendelkezésre áll a fejlesztés előtt.
+Az aktorlistát a megrendelő átadja.
+*A funkció (use case) megvalósításában részt vevőket résztvevő szereplőnek hívjuk.
+*Egy use case-t mindig csak egy aktor kezdeményezhet
+*Egy use case megvalósításában viszont több aktor is részt vehet
+Egy use case megvalósításában egy aktor vehet részt.
+| Jelölje az aktorokkal kapcsolatos igaz állításokat!
+Egy use case megvalósításában egy aktor vehet részt.
+*Az aktor grafikus szimbóluma egy pálcikaemberke.
+*Az aktorok egymással együttműködve megvalósítják a rendszer céljait.
+Az aktorlistát a megrendelő átadja.
+| Jelölje az aktorokkal kapcsolatos igaz állításokat!
+*Az aktor nevét a szimbólum alá írjuk.
+Az aktor neve csak a kifejtés során kap szerepet
+Egy use case megvalósításában egy aktor vehet részt.
+| Mely definíciók igazak a use casekre?
+*A use casek a rendszer kívülről látható funkciói, un. kapcsolódási pontok a szoftverrendszert használók és a szoftverrendszer között
+*A use case a rendszer egy aspektusának pillanatképe. A rendszerrel kapcsolatos összes use case feltárása a fejlesztendő rendszer külső képét adja
+*A felhasználó és a számítógépes rendszer közötti interakciót definiálja
+*Tipikusan a szoftver és a felhasználó (aktor) között lezajló kommunikáció, üzenetváltás lépéseit írja le
+*Egy use case pontosan azt határozza meg, hogy a felhasználó (aktor) MIT akar a szoftverrel végrehajtani, milyen célt kíván megvalósítani, ugyanakkor nem tér ki a megvalósítás, a HOGYAN részleteire?
+| Az alábbi listából mely technikák lehetnek alkalmasak az aktorok azonosítására?
+*Az adott területre jellemző felhasználóval való folytatott közös beszélgetések, interjúk.
+*Kérdőívek használata csoportos felmérés esetén.
+*Brainstorming alkalmazása
+*Vitakurzus indítása
+*A célokat megfogalmazó dokumentumokból kigyűjtjük az igéket.
+A célokat megfogalmazó dokumentumokból kigyűjtjük a főneveket.
+| Mely állítások igazak a use casekre?
+*A követelményspecifikáció munkaszakaszban definiált use case-eket a szakirodalom fekete doboz use case-eknek (black-box use case) nevezi.
+A követelményspecifikáció munkaszakaszban definiált use case-eket a szakirodalom fehér doboz use case-eknek (white-box use case) nevezi.
+| Milyen kategorizálás vonatkozhat use casekre?
+*Egy use case lehet „kicsi vagy nagy”
+Egy use case származhat a megrendelőtől vagy a felhasználótól.
+*A fejlesztendő rendszer szempontjából megkülönböztetünk: architektúrálisan fontos, egyéb és rendszeridegen use case-eket
+A fejlesztendő rendszer szempontjából megkülönböztetünk: megrendelőtől és fejlesztőtől származó use caseket.
+| Jelölje a use casekkel kapcsolatos igaz állításokat!
+*A use case-eket UML-ben grafikusan egy ellipszis szimbólum jelöli.
+*Egy use case egy diszkrét feladat vagy funciót jelöl.
+A use case-eket UML-ben grafikusan egy lekerekített sarkú téglalap jelöli.
+*Minden use case-hez tartozni kell egy use case leírásnak
+Egy use case tipikusan egy modult jelent.
+| Use case modellben a kapcsolat irányítottsága (vagy hiánya) mit jelöl?
+*Közreműködés
+*Kezdeményezést
+Hívást
+Vezérlési folyamot
+*Részvétel a végrehajtásban
+| Use case diagram aktorok és use casek közötti kapcsolat elemeire mely állítások igazak?
+*A rendszer szereplői és a use case-ek közötti kapcsolatot egy irányított vonal, nyíl jelöli.
+*A rendszer szereplői és a use case-ek közötti kapcsolatot egy vonal jelöli.
+*A nyíl a szereplőtől a use case felé mutat
+A nyíl a use case felől a szereplő felé mutat
+A nyíl lehet szaggatott
+Az alapértelmezett sztereotípia itt <<cando>>
+| Use case diagram aktorok és use casek közötti kapcsolat elemeire mely állítások igazak?
+*Egy feladat (use case) végrehajtásában több aktor is közreműködhet.
+*A use case megvalósításában részt vevő szereplőket és a use case-t egyszerű vonal (irányítás nélküli) köti össze.
+Szaggatott vonallal a lehetséges megvalósulást jelöljük.
+Sazggatott vonallal az elképzelt ideális megvalósulást jelöljük.
+| Use case diagram aktorai közötti kapcsolat…
+*Öröklődési viszont jelent
+Közreműködést jelöl
+| Aktorok közötti öröklődés jele:
+*Telt fehér végű nyíl, mely az ős felé mutat
+Telt fehér végű nyíl, mely a leszármazott felé mutat
+Telt fehér végű nyíl, mely az ős felé mutat, szaggatott vonal a feltételes öröklődést jelöli.
+Telt fehér végű nyíl, mely a gyerek felé mutat, szaggatott vonal a feltételes öröklődést jelöli.
+| Milyen speciális viszonyok definiálhatóak aktorok között?
+*Öröklődés
+Feltételes segítségnyújtás use case végrehajtásában
+Kizárólagos közös végrehajtás
+| Milyen speciális viszonyok definiálhatóak use casek között?
+*Tartalmazás
+*Kiterjesztés
+*Öröklődés
+Ideális megvalósulás
+Feltételes megvalósulás
+| Jelölje a use casek között értelmezett tartalmazási viszonyra igaz állításokat!
+*A szereplő által kezdeményezett (alap vagy normál) use case-ek végrehajtásában vannak olyan részek, lépések, amelyek mindegyik use case végrehajtásakor bekövetkeznek és azonos módon játszódnak le
+A modellben lehetnek use case-ek, amelyek végrehajtási menetében bizonyos feltételek bekövetkezésekor a vezérlés egy másik use case-nek adódik át. Ilyenkor a normál use case-nek egy bővített változata játszódik le.
+*A tartalmazott use case végrehajtása feltétel nélküli, vagyis az alap use case végrehajtáskor mindig bekövetkezik, lejátszódik.
+A szaggatott nyíl az alap use case felé mutat.
+*francia zárójelek közé írt <<include>> sztereotípiával jelöljük.
+*Szaggatott nyíllal jelöljük.
+francia zárójelek közé írt <<extends>> sztereotípiával jelöljük.
+| Jelölje a use casek között értelmezett kiterjesztés viszonyra igaz állításokat!
+A szereplő által kezdeményezett (alap vagy normál) use case-ek végrehajtásában vannak olyan részek, lépések, amelyek mindegyik use case végrehajtásakor bekövetkeznek és azonos módon játszódnak le
+A kiterjesztett use case végrehajtása feltétel nélküli, vagyis az alap use case végrehajtáskor mindig bekövetkezik, lejátszódik.
+*Szaggatott nyíllal jelöljük.
+francia zárójelek közé írt <<include>> sztereotípiával jelöljük.
+*A szaggatott nyíl az alap use case felé mutat.
+*Mivel a normál use case viselkedésében a feltétel csak bizonyos esetekben következik be, ezért a normál use case- t bővítő viselkedést érdemes külön use case-ben leírni.
+*A modellben lehetnek use case-ek, amelyek végrehajtási menetében bizonyos feltételek bekövetkezésekor a vezérlés egy másik use case-nek adódik át. Ilyenkor a normál use case-nek egy bővített változata játszódik le.
+| Jelölje a use casek között értelmezett öröklődési viszonyra igaz állításokat!
+*A leszármazott use case örökli a normál use case viselkedését, kapcsolatait.
+*A leszármazott az eredeti/normál use case viselkedéséhez hozzáadhat újabb viselkedéseket, sőt az eredeti use case viselkedését felülbírálhatja, felülírhatja.
+A leszármazott use case egy ideális megvalósulást takar.
+*Az alkalmazott sztereotípia ilyenkor <<generalization>>
+Az alkalmazott sztereotípia ilyenkor <<realize>>
+Az alkalmazott sztereotípia ilyenkor <<trace>>
+| Mely mezők jelenhetnek meg tipikusan egy követelmény-bejegyzés formalapon?
+Megvalósítási ajánlás
+*Kapcsolódó követelmények
+
+*Kapcsolódó iratok
+
+*Prioritás
+*Funkcionális és nem funkcionális követelmények
+Interjú helyszíne
+*Forrás
+| Mely állítások igazak a use case realizációra?
+*Jele egy szaggatott szélű ellipszis
+*Az alkalmazott sztereotípia: <<trace>>
+Az alkalmazott sztereotípia: <<uses>>
+*Jelzés: egy szekvenciadiagramra utalás
+Jelzés: egy állapotgépre utalás
+Jelzés: egy másik, megvalósítandó use case-re utalás
+| Mit jelent a vezérjel?
+*Token, adott pillanatban a végrehajtás aktuális pontja
+Üzenet, melyet az egyik objektum küld a másiknak
+| Mit jelent a token?
+*Vezérjel, adott pillanatban a végrehajtás aktuális pontja
+Üzenet, melyet az egyik objektum küld a másiknak
+| Az alábbiak közül melyik ábrákon van értelmezve a vezérjel?
+*Tevékenységdiagram
+Use Case diagram
+Osztálydiagram
+*Aktivitási diagram
+Osztályleltár
+| Mit jelent tevékenységdiagramokon a kifejtési jel?
+Az adott tevékenység később osztálydiagramon lesz kifejtve
+*Az adott aktivitás ki van fejtve másik aktivitási diagramon
+Létezik a műköést leíró szekvenciadiagram
+| Milyen többletjelentést ad tevékenységdiagramon az úszópályák használata?
+Megmutatja, melyik use case felelőssége alá tartozik az adott aktivitás
+*Megmutatja, hogy milyen felelősségi körhöz mely tevékenységek tartoznak
+*Utalhat arra, hogy az adott aktivitás később melyik osztály felelősségi körébe tartozzon
+A kapcsolódó állapotgép aktuális állapotát mutatja.
+| Tevékenységdiagramon az alapértelmezés szerinti szinkronizációs vonal milyen működési logikát valósít meg?
+VAGY kapu logikát
+*ÉS kapu logikát
+| Tevékenységdiagramon az alapértelmezés szerinti esetválasztó csúcs milyen működési logikát valósít meg?
+VAGY kapu logikát
+ÉS kapu logikát
+*KIZÁRÓ vagy logikát
+| UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?
+
+*A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik a bal bemenetre
+*A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik a jobb bemenetre
+A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik mindkét bemenetre
+
+| UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?
+
+A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik a bal bemenetre
+A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik a jobb bemenetre
+
+*A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik mindkét bemenetre
+| UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?
+
+*A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik bemenetre
+A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik a jobb bemenetre
+A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik mindkét bemenetre
+*A szinkronizációs vonal után több szálon folyik tovább a feldolgozás
+A szinkronizációs vonal után egy szálon folyik tovább a feldolgozás
+
+| UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?
+
+A „Számla megnyitás” tevékenység közben „Utas” típusú megjegyzést kell generálni.
+A „Számla megnyitás” tevékenységhez „Utas” típusú megjegyzés tartozik
+*A „Számla megnyitás” tevékenységhez rendelkezésünkre áll egy „Utas” objektum
+A „Számla megnyitás” tevékenység közben „Utas” típusú objektum készül.
+
+| UML2 esetén mi a különbség az alábbi két aktivitásdiagram részlet között?
+
+
+A bal oldali ábra értelmezése szerint „Utas keresése” tevékenység során keletkezik egy új „Utas” objektum, míg a jobb oldali ábra szerint csak rendelkezésre áll.
+*A két ábra között nincs értelmezésbeli különbség
+A jobb oldali ábra értelmezése szerint „Utas keresése” tevékenység során keletkezik egy új „Utas” objektum, míg a bal oldali ábra szerint csak rendelkezésre áll.
+A bal oldali ábra szerint egy „Utas” objektum jelenléte kötelező, míg a jobb szerint opcionális
+| Miért jó ugrópontok használata tevékenységdiagramokon?
+Mert így egyszerűbb hivatkozni később részletezett ábrákra
+*Mert így elkerülhető a vonalak kereszteződése
+Mert használatukkal (megszorításokkal) jobban értelmezhetővé válnak az ábrák
+| Tevékenységdiagramokon mi a kivételkezelés jele?
+Szaggatott, lekerekített téglalap
+*Villámjel
+try-catch felirat
+Szaggatott nyíl
+| Az ábrán egy tevékenységdiagram részlet látható. Mit tudunk meg belőle?
+
+Az „Almenü kezelése” tevékenység minden hibatípus ellen védett, és ha bármely bekövetkezik, akkor a „Főmenü kezelése” következik
+*Az „Almenü kezelése” tevékenység minden kizárólag „Felhasználói megszakítás” típusú kivétel ellen védett
+
+| Ha tevékenységdiagramon az alábbi ábrarészlet látható, akkor milyen programkód részlet megkövetelése várható?
+
+*try-catch blokk
+do-while blokk
+if-then-else blokk
+
+| UML2 tevékenységdiagramján hogyan kell értelmezni az alábbi ábrarészt:
+
+Külső esemény hatására „KivételTípus” típusú kivételt kell dobni.
+*Bizonyos idő elteltével „KivételTípus” típusú kivételt kell dobni.
+
